@@ -22,7 +22,7 @@
 
 [Practices]
 
-- [4/30] ClassA_Practice
+- [[4/30] ClassA_Practice](notes/0430_실습.md)
 - [[5/7] ClassA_Practice](notes/0507_실습.md)
 
 
