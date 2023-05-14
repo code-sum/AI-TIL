@@ -1,5 +1,3 @@
-import elice_utils
-
 from time import sleep
 
 
