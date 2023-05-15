@@ -30,10 +30,16 @@
 
 ## 2. 파이썬 데이터처리/분석/시각화
 
-- Numpy 표준데이터타입
-- Numpy 배열의 기초
+[Lectures]
+
+- [[5/11] Numpy 표준 데이터 타입](notes/0511_넘파이.md)
+- [5/12] Numpy 배열의 기초
 - Pandas 객체소개
 - Pandas 심화 알아보기
+
+[Practices]
+
+- [5/14] ClassA_Practice
 
 
 
