@@ -34,7 +34,7 @@
 
 - [[5/11] Numpy 표준 데이터 타입](notes/0511_넘파이.md)
 - [5/12] Numpy 배열의 기초
-- Pandas 객체소개
+- [5/15] Pandas 객체소개
 - Pandas 심화 알아보기
 
 [Practices]
