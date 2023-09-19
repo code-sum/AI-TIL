@@ -51,3 +51,10 @@
 - Recursion and dynamic programming
 - Binary Search Tree
 - Algorithm Analysis
+
+
+
+## 4. QA 챗봇 개발
+
+- [9/19] 프로젝트 환경세팅
+
