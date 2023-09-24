@@ -58,3 +58,4 @@
 
 - [[9/19] 프로젝트 환경세팅](notes/0919_환경세팅.md)
 
+- [[9/22] Vector DB - CSV import](notes/0921_CSV.md)
