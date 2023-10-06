@@ -2,11 +2,11 @@
 
 
 
-> 2023.04.24 ~ 2023.05.19 KAIST/서초구청 주관 [AI College]  강의를 듣고 정리했습니다.
+> KAIST [AI College]  강의노트 및 AI 프로젝트 자료모음입니다.
 
 
 
-## 1. 파이썬 프로그래밍
+## 1. Python Programming
 
 [Lectures]
 
@@ -28,7 +28,9 @@
 
 
 
-## 2. 파이썬 데이터처리/분석/시각화
+## 2. Python DP/DA/DV 
+
+> Data Processing, Data Analysis, Data Visualization
 
 [Lectures]
 
@@ -44,7 +46,7 @@
 
 
 
-## 3. 데이터구조 & 알고리즘
+## 3. Data Structure & Algorithm
 
 - Object-oriented paradigm and software design
 - Linked list, stack and queue
@@ -54,8 +56,10 @@
 
 
 
-## 4. QA 챗봇 개발
+## 4. QA Chatbot
 
 - [[9/19] 프로젝트 환경세팅](notes/0919_환경세팅.md)
 
 - [[9/22] VectorDB - CSV import](notes/0921_CSV.md)
+
+- [[10/6] Docker Desktop 설치 및 실행](notes/1006_Docker.md)
