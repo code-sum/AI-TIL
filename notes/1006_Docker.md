@@ -41,3 +41,34 @@
   ![1006_Docker_2](1006_Docker.assets/1006_Docker_2.png)
 
   - 시스템 상태에 따라 재시작이나 로그아웃 해야 하는 경우도 있음
+
+
+
+### 3. Docker Desktop 에 WSL2 관련 설정 잡기
+
+- 시스템에 WSL2가 활성화되어있다면 Docker는 기본적으로 WSL2를 백엔드로 Docker Engine을 실행
+
+- 고래 모양 아이콘에서 마우스 오른쪽 버튼을 누르면 Docker Desktop 상태를 관리할 수 있음. 여기서 [About Docker Desktop] 클릭
+
+  ![1006_Docker_3](1006_Docker.assets/1006_Docker_3.png)
+
+  ![1006_Docker_4](1006_Docker.assets/1006_Docker_4.png)
+
+- WSL2 설정이 잘 되어있는지 확인하고 WSL 통합 설정 진행
+
+  - Docker 아이콘에서 마우스 오른쪽 버튼 클릭한 다음, [Settings] 클릭
+
+    ![1006_Docker_5](1006_Docker.assets/1006_Docker_5.png)
+
+  - General 설정에서 ’Use the WSL 2 based engine’에 체크가 되어있는지 확인. 체크가 되어있지 않다면 체크하고 오른쪽 아래의 [Apply & Restart] 버튼 클릭
+
+    ![1006_Docker_6](1006_Docker.assets/1006_Docker_6.png)
+
+  - Resource > WSL Integration 메뉴로 이동. ’Enable Integration with my default WSL distro’에 체크되어 있는지 확인. 체크가 되어있지 않으면, 체크하고 오른쪽 아래의 [Apply & Restart] 버튼을 클릭하여 도커 엔진 재실행
+
+    ![1006_Docker_7](1006_Docker.assets/1006_Docker_7.png)
+
+  - 여기까지 작업하면 WSL2 기반 Docker 설치 모두 완료!
+
+
+
