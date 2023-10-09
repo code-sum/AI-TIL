@@ -72,3 +72,13 @@
 
 
 
+### 4. Docker Desktop 실행
+
+- Docker 클라이언트 정보, 서버 정보 확인
+
+  ```powershell
+  docker version
+  ```
+
+  - 명령 프롬프트
+  - Ubuntu
