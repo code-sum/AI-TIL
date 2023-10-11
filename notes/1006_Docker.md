@@ -76,9 +76,14 @@
 
 - Docker 클라이언트 정보, 서버 정보 확인
 
-  ```powershell
+  ```bash
   docker version
   ```
 
-  - 명령 프롬프트
-  - Ubuntu
+- 실행중인 컨테이너 확인
+
+  ```bash
+  docker ps
+  ```
+
+  
