@@ -64,4 +64,4 @@
 
 - [[10/6] Docker Desktop 설치 및 실행](notes/1006_Docker.md)
 
-- [10/10] OpenSearch Quickstart
+- [[10/10] OpenSearch Quickstart](notes/1010_OpenSearch.md)
