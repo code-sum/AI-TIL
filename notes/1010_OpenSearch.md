@@ -26,4 +26,14 @@
   docker-compose ps
   ```
 
+
+- OpenSearch 에서 제공해주는 Docker Container 가 정상적으로 실행되었다면 위 명령어 실행 결과는 아래와 같음
+
+  ```bash
+   NAME                    COMMAND                  SERVICE                 STATUS              PORTS
+   opensearch-dashboards   "./opensearch-dashbo…"   opensearch-dashboards   running             0.0.0.0:5601->5601/tcp
+   opensearch-node1        "./opensearch-docker…"   opensearch-node1        running             0.0.0.0:9200->9200/tcp, 9300/tcp, 0.0.0.0:9600->9600/tcp, 9650/tcp
+   opensearch-node2        "./opensearch-docker…"   opensearch-node2        running             9200/tcp, 9300/tcp, 9600/tcp, 9650/tcp
+  ```
+
   
