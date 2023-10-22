@@ -10,7 +10,7 @@
 
 [Lectures]
 
-- [[4/24] 파이썬 기초](notes/0424_파이썬기초.md)
+- [[4/24] Python 기초](notes/0424_PythonBasic.md)
 - [[4/25] if 조건문, while 반복문](notes/0425_조건반복문.md)
 - [[4/26] 함수, 자료형, 변수, 라이브러리](notes/0426_함수라이브러리.md)
 - [[4/27] 지역 변수, 전역 변수, 리스트, 튜플](notes/0427_변수리스트튜플.md)
@@ -58,7 +58,7 @@
 
 ## 4. QA Chatbot
 
-- [[9/19] 프로젝트 환경세팅](notes/0919_환경세팅.md)
+- [[9/19] 프로젝트 환경세팅](notes/0919_QASetting.md)
 
 - [[9/22] VectorDB - CSV import](notes/0921_CSV.md)
 
