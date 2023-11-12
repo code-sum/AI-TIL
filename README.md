@@ -65,3 +65,5 @@
 - [[10/6] Docker Desktop 설치 및 실행](notes/1006_Docker.md)
 
 - [[10/10] OpenSearch Quickstart](notes/1010_OpenSearch.md)
+
+- [[11/12] VectorDB 비교](notes/1112_VectorDB.md)
