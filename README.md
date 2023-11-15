@@ -58,12 +58,17 @@
 
 ## 4. QA Chatbot
 
-- [[9/19] 프로젝트 환경세팅](notes/0919_QASetting.md)
+[Settings]
 
-- [[9/22] VectorDB - CSV import](notes/0921_CSV.md)
+- [프로젝트 환경세팅](notes/0919_QASetting.md)
+- [Docker Desktop 설치 및 실행](notes/1006_Docker.md)
 
-- [[10/6] Docker Desktop 설치 및 실행](notes/1006_Docker.md)
+[Vector Database]
 
-- [[10/10] OpenSearch Quickstart](notes/1010_OpenSearch.md)
+- [VectorDB 비교](notes/1112_VectorDB.md)
+- [Chroma CSV import](notes/0921_CSV.md)
+- [OpenSearch Quickstart](notes/1010_OpenSearch.md)
 
-- [[11/12] VectorDB 비교](notes/1112_VectorDB.md)
+[Framework]
+
+- LangChain 아키텍처
