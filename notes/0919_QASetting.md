@@ -11,11 +11,13 @@
   - 이건 Global 의 경우이므로 참고만 하고, 실제로는 각 프로젝트마다 별도의 가상환경을 구축하고 각각 필요한 버전의 Python 패키지를 설치할 것
 
 - Ubuntu 설치
+> WSL(Windows Subsystem for Linux)은 Windows에 리눅스 운영체제를 설치할 수 있게 해주는 하위 시스템(subsystem)이다. WSL에 우분투(Ubuntu), 오픈수세(OpenSUSE), 칼리(Kali), 데비안(Debian), 아치 리눅스(Arch Linux) 등을 설치할 수 있다. [(link)](https://wikidocs.net/205061)
+> Ubuntu 는 영국 기업 캐노니컬이 개발, 배포하는 컴퓨터 운영 체제이다. 데비안 리눅스를 기반으로 개발되며, 데비안에 비해 '사용자 편의성'에 초점을 맞춘 리눅스 배포판이다. [(link)](https://ko.wikipedia.org/wiki/%EC%9A%B0%EB%B6%84%ED%88%AC)
 
-  - 가이드
-    - https://learn.microsoft.com/ko-kr/windows/wsl/install
-    - https://wotres.tistory.com/entry/WSL-windows-에-ubuntu-설치-하는-법
-    - https://makepluscode.tistory.com/216
+- 설치 가이드
+  - https://learn.microsoft.com/ko-kr/windows/wsl/install
+  - https://wotres.tistory.com/entry/WSL-windows-에-ubuntu-설치-하는-법
+  - https://makepluscode.tistory.com/216
 
 - 명령 프롬프트 관리자 권한으로 실행 후 `wsl --install`
 
