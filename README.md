@@ -34,9 +34,9 @@
 
 [Lectures]
 
-- [[5/11] Numpy 표준 데이터 타입](notes/0511_넘파이.md)
-- [[5/12] Numpy 배열의 기초](notes/0512_넘파이2.md)
-- [[5/15] Pandas 객체소개](notes/0515_판다스.md)
+- [[5/11] NumPy 표준 데이터 타입](notes/0511_NumPy.md)
+- [[5/12] NumPy 배열의 기초](notes/0512_NumPy2.md)
+- [[5/15] Pandas 객체소개](notes/0515_Pandas.md)
 - [5/16] Pandas 심화 알아보기
 - [5/17] Matplotlib
 
