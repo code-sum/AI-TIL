@@ -71,4 +71,4 @@
 
 [Framework]
 
-- LangChain 아키텍처
+- [LangChain 아키텍처](notes/1119_LangChain.md)
