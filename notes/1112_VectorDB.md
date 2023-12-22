@@ -18,15 +18,21 @@
 ### 1. Chroma [(공식)](https://www.trychroma.com/) [(GitHub)](https://github.com/chroma-core/chroma)
    - 장점
      - 오픈소스
-     - 설치가 쉬움 (local에 구성)
+     - 설치가 쉬움 (local 에 구성)
    - 단점
 ### 2. OpenSearch [(공식)](https://opensearch.org/) [(GitHub)](https://github.com/opensearch-project)
    - 장점
      - 오픈소스 ([Elasticsearch](https://www.elastic.co/kr/elasticsearch) 코드 베이스를 Fork 한 오픈소스 검색 엔진)
    - 단점
+     - [Quickstart](https://opensearch.org/docs/latest/quickstart/) 참고하여 `docker-compose.yml` 다운로드 받고 up 시켜보면, 컨테이너가 3개나 구동됨
 ### 3. Weaviate [(공식)](https://weaviate.io/) [(GitHub)](https://github.com/weaviate/weaviate)
    - 장점
+     - 오픈소스
+     - Docker 컨테이너 1개만 구동해도 활용 가능
    - 단점
 ### 4. FAISS [(공식)](https://faiss.ai/) [(GitHub)](https://github.com/facebookresearch/faiss)
    - 장점
+     - 오픈소스
+     - 속도가 매우 빠름 (인터페이스는 Python 이나 C++ 로 제작, GPU 차원에서도 효율적으로 동작하도록 개발됨)
    - 단점
+     - 활용도가 제한적 (엄밀히 따지면 VDB 내의 Vector Index 관련 기능만 지원)
