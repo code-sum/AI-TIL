@@ -72,3 +72,7 @@
 [Framework]
 
 - [LangChain 아키텍처](notes/1119_LangChain.md)
+
+[Evaluation]
+
+- [Ragas (evaluating LLM-generated text)](notes/1223_Ragas.md)
