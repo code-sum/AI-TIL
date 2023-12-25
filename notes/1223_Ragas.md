@@ -38,3 +38,48 @@
   - 검색(retrieval) 성능을 평가하는 지표
     - `context_precision`
     - `context_recall`
+
+
+
+- Ragas 활용 예시
+
+  1. `pip install ragas`
+
+  2. 평가를 위한 Chain 만들기
+
+  3. `from ragas.metrics` 에서 평가에 필요한 모든 항목 import 
+
+  4. `from ragas.langchain` 에서 `RagasEvaluatorChain` import
+
+     - ragas 평가 항목을 LangChain [EvaluationChain](https://python.langchain.com/docs/guides/evaluation/?ref=blog.langchain.dev) 으로 변환시켜 주는 체인
+
+     ```python
+     from ragas.metrics import faithfulness, answer_relevancy, context_precision, context_recall
+     from ragas.langchain import RagasEvaluatorChain
+     
+     # make eval chains
+     eval_chains = {
+         m.name: RagasEvaluatorChain(metric=m) 
+         for m in [faithfulness, answer_relevancy, context_precision, context_recall]
+     }
+     ```
+
+  5. 위 코드로 평가용 체인이 만들어지면, 아래 코드를 작성하여 평가용 체인을 호출
+
+     ```python
+     # evaluate
+     for name, eval_chain in eval_chains.items():
+         score_name = f"{name}_score"
+         print(f"{score_name}: {eval_chain(result)[score_name]}")
+     
+     # 평가용 체인 호출은 __call__() 메서드 활용
+     
+     # output
+     # faithfulness_score: 1.0
+     # answer_relevancy_score: 0.9193459596511587
+     # context_precision_score: 0.07480974380786602
+     # context_recall_score: 0.9193459596511587
+     ```
+
+     
+
