@@ -36,8 +36,11 @@
     - `faithfulness` : 답변의 정확도. 생성된 답변에 환각현상(hallucinations)이 얼마나 있는지(=혹은 생성된 답변이 얼마나 정확한지) 측정
     - `answer_relevancy` : 질문과의 연관도. 생성된 답변이 질문 내용과 얼마나 연관성이 높은지 측정
   - 검색(retrieval) 성능을 평가하는 지표
-    - `context_precision`
-    - `context_recall`
+    💡 [Machine Learning] precision vs. recall 개념 구분 [(link)](https://sumniya.tistory.com/26)
+    - `context_precision` : context 내부 chunks 들이 ground_truth(=사실이라고 정의된 것들)에 얼마나 부합하는지를 계산
+      - (ML 에서 precision 은 모델이 True라고 분류한 것 중에서 실제 True인 것의 비율)
+    - `context_recall` : 질문에 답변하는 과정에서 ‘필요한 모든 필수 정보’를 ‘검색기’가 검색할 수 있는지를 계산
+      - (ML 에서 recall 은 실제 True인 것 중에서 모델이 True라고 예측한 것의 비율)
 
 
 
