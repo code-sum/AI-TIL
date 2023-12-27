@@ -17,6 +17,18 @@
 
 
 
+- LLM in Ragas
+  - **특징** : LLM 은 스스로 생성한 출력물을 중시하며, 서로 다른 출력물(outputs)을 비교해 달라고 요청받았을 때, 출력물의 상대적인 포지션을 중시함
+  - **장점** : 얼마나 인간적인 판단을 내리느냐의 관점에서 볼 때, 평가에 LLM 을 활용하는 방식이 전통적인 평가지표(metrics) 보다 나음
+    - *metrics : Metrics are measures of [quantitative assessment](https://www.investopedia.com/articles/investing/041114/simple-overview-quantitative-analysis.asp) commonly used for assessing, comparing, and tracking performance or production.*
+  - **단점** : LLM 은 점수를 매겨 달라는 요청을 받았을 때 편견(bias)의 영향을 받을 수 있고, 길이가 긴 답변들을 중시하는 경향도 있음
+    - 예를 들어, 1 부터 10까지 숫자 중에 난수를 생성해 달라고 100번 요청 받았을 때, 7을 출력하는 비중이 압도적으로 높았던 사례도 발견됨 [(link)](https://www.youtube.com/watch?v=fWC4VxolWAk)
+  - Ragas 또한 평가 기능을 위해 내부적으로(under the hood) LLM 을 활용하긴 함
+  - 그러나 Ragas 는 LLM 을 QA pipeline 평가에 활용할 때 발생하는 위 단점들을 해결하고자 하며, 가능한 한 데이터 어노테이션이 적은 평가지표를 제공함
+    - *데이터 어노테이션* *: 데이터셋에 메타데이터를 추가하는 작업. ‘태그’ 형식으로 이미지, 텍스트, 비디오를 비롯한 모든 유형의 데이터에 추가가 가능. 쉽게 말해 인공지능이 데이터의 내용을 이해할 수 있도록 주석을 달아주는 작업을 의미*
+
+
+
 - Ragas 의 평가 대상
 
   > 아래 2가지 컴포넌트는 평가 프로세스를 나누는 카테고리기도 하며, QA pipeline 을 평가하기 위해선 2가지 컴포넌트 모두를 평가 대상으로 삼아야 함
@@ -33,14 +45,14 @@
   ![1223_Ragas](1223_Ragas.assets/1223_Ragas.png)
 
   - 생성(generation) 성능을 평가하는 지표
-    - `faithfulness` : 답변의 정확도. 생성된 답변에 환각현상(hallucinations)이 얼마나 있는지(=혹은 생성된 답변이 얼마나 정확한지) 측정
-    - `answer_relevancy` : 질문과의 연관도. 생성된 답변이 질문 내용과 얼마나 연관성이 높은지 측정
+    - `faithfulness` : 신뢰도(=답변의 정확도). 생성된 답변에 환각현상(hallucinations)이 얼마나 있는지(=혹은 생성된 답변이 얼마나 정확한지) 측정
+    - `answer_relevancy` : 질문과 답변의 연관도. 생성된 답변이 질문 내용과 얼마나 연관성이 높은지 측정
   - 검색(retrieval) 성능을 평가하는 지표
-    💡 [Machine Learning] precision vs. recall 개념 구분 [(link)](https://sumniya.tistory.com/26)
-    - `context_precision` : context 내부 chunks 들이 ground_truth(=사실이라고 정의된 것들)에 얼마나 부합하는지를 계산
+    - `context_precision` : 컨텍스트 정밀도. context 내부 chunks 들이 ground_truth(=사실이라고 정의된 것들)에 얼마나 부합하는지를 계산
       - (ML 에서 precision 은 모델이 True라고 분류한 것 중에서 실제 True인 것의 비율)
-    - `context_recall` : 질문에 답변하는 과정에서 ‘필요한 모든 필수 정보’를 ‘검색기’가 검색할 수 있는지를 계산
+    - `context_recall` : 컨텍스트 재현도. 질문에 답변하는 과정에서 ‘필요한 모든 필수 정보’를 ‘검색기’가 검색할 수 있는지를 계산
       - (ML 에서 recall 은 실제 True인 것 중에서 모델이 True라고 예측한 것의 비율)
+    - [참고자료 / Machine Learning] precision vs. recall 개념 구분 [(link)](https://sumniya.tistory.com/26)
 
 
 
