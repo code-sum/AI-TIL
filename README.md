@@ -62,7 +62,7 @@
 
 - [프로젝트 환경세팅](notes/0919_QASetting.md)
 - [Docker Desktop 설치 및 실행](notes/1006_Docker.md)
-- Python Package 목록
+- [Python Package 목록](notes/1228_QApackages.md)
 
 [Vector Database]
 
