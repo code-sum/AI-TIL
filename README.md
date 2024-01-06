@@ -10,21 +10,21 @@
 
 [Lectures]
 
-- [[4/24] Python 기초](notes/0424_PythonBasic.md)
-- [[4/25] if 조건문, while 반복문](notes/0425_IfWhile.md)
-- [[4/26] 함수, 자료형, 변수, 라이브러리](notes/0426_FuncLib.md)
-- [[4/27] 지역 변수, 전역 변수, 리스트, 튜플](notes/0427_Variables.md)
-- [[4/28] 리스트, 튜플, 문자열, 사전, 집합](notes/0428_ListTuple.md)
-- [[5/1] 문자열, 집합, 사전, 모듈, 그래픽 객체](notes/0501_문자열집합사전.md)
-- [[5/2] 사전형, 집합, 텍스트, 이미지, 그래픽](notes/0502_텍스트이미지그래픽.md)
-- [[5/3] 텍스트, 이미지, 그래픽, 클래스](notes/0503_클래스.md)
-- [[5/9] 복습 (4/24 ~ 5/7)](notes/0509_전체복습.md)
-- [[5/10] 실습풀이 (4/24 ~ 5/7)](notes/0510_전체실습질의.md)
+- [Python 기초](notes/0424_PythonBasic.md)
+- [if 조건문, while 반복문](notes/0425_IfWhile.md)
+- [함수, 자료형, 변수, 라이브러리](notes/0426_FuncLib.md)
+- [지역 변수, 전역 변수, 리스트, 튜플](notes/0427_Variables.md)
+- [리스트, 튜플, 문자열, 사전, 집합](notes/0428_ListTuple.md)
+- [문자열, 집합, 사전, 모듈, 그래픽 객체](notes/0501_StrDict.md)
+- [사전형, 집합, 텍스트, 이미지, 그래픽](notes/0502_ImgGraphic.md)
+- [텍스트, 이미지, 그래픽, 클래스](notes/0503_Class.md)
+- [전체 복습 (4/24 ~ 5/7)](notes/0509_Review.md)
+- [실습문제 풀이 (4/24 ~ 5/7)](notes/0510_QAPractice.md)
 
 [Practices]
 
-- [[4/30] ClassA_Practice](notes/0430_실습.md)
-- [[5/7] ClassA_Practice](notes/0507_실습.md)
+- [ClassA_Practice 1](notes/0430_Practice1.md)
+- [ClassA_Practice 2](notes/0507_Practice2.md)
 
 
 
