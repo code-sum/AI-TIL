@@ -17,19 +17,31 @@
     - 미리 구축한 가상환경 실행
 
       ```bash
-      pyenv activate [가상환경이름]
+      $ pyenv activate [가상환경이름]
       ```
 
     - 실행중인 가상환경에 Pandas 설치
 
       ```bash
-      pip install pandas
+      $ pip install pandas
       ```
 
     - 패키지 import (아래와 같이 alias 로 `pd` 를 주로 사용)
 
-      ```bash
+      ```python
       import pandas as pd
       ```
 
+
+
+- CSV 파일에서 데이터 불러오기
+
+  - 불러온 데이터를 `df` 라는 이름의 `DataFrame` 객체에 로드
+  - `DataFrame` 은 Pandas 에서 데이터를 다루는 기본적인 구조
+
+    ```python
+    import pandas as pd
+
+    df = pd.read_csv("sample.csv")
+    ```
       
