@@ -32,16 +32,10 @@
 
 > Data Processing, Data Analysis, Data Visualization
 
-[Lectures]
-
 - [NumPy 표준 데이터 타입](notes/0511_NumPy.md)
 - [NumPy 배열의 기초](notes/0512_NumPy2.md)
 - [Pandas 객체소개 및 심화](notes/0515_Pandas.md)
 - [Matplotlib](notes/0517_Matplotlib.md)
-
-[Practices]
-
-- [5/14] ClassA_Practice
 
 
 
