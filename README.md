@@ -59,13 +59,14 @@
 
 [Vector Database]
 
-- [VectorDB 비교](notes/1112_VectorDB.md)
+- [VDB 비교](notes/1112_VectorDB.md)
 - [Chroma CSV import](notes/0921_CSV.md)
 - [OpenSearch Quickstart](notes/1010_OpenSearch.md)
 
 [Framework]
 
 - [LangChain 아키텍처](notes/1119_LangChain.md)
+- FastAPI 기반 서비스 아키텍처
 
 [Evaluation]
 
