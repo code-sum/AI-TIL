@@ -97,4 +97,69 @@
      ```
 
      
+- 평가용 LLM 커스텀
+  > 참고자료 : [공식문서] Bring your own LLMs [(link)](https://docs.ragas.io/en/latest/howtos/customisations/llms.html)
 
+  1. 평가를 위한 `dataset` 세팅
+  
+     ```python
+     from datasets import Dataset
+ 
+     # To dict
+     data = {
+         "question": questions,
+         "answer": answers,
+         "contexts": contexts,
+         "ground_truths": ground_truths
+     }
+    
+     # Convert dict to dataset
+     dataset = Dataset.from_dict(data)
+     ```
+     
+  2. RAGAS 에 내장된 LLM 버전 `gpt-3.5-turbo-16k` >> `gpt-4-1106-preview` 로 업그레이드
+ 
+     ```python
+     from ragas import evaluate
+     from ragas.metrics import (
+         faithfulness,
+         answer_relevancy,
+         context_precision,
+         context_recall,
+     )
+     from langchain_openai import ChatOpenAI
+     from ragas.llms import LangchainLLM
+    
+     ragas_llm = ChatOpenAI(
+         model="gpt-4-1106-preview", 
+         temperature=0.5
+     )
+    
+     gpt4_wrapper = LangchainLLM(llm=ragas_llm)
+    
+     faithfulness.llm = gpt4_wrapper 
+     answer_relevancy.llm = gpt4_wrapper 
+     context_precision.llm = gpt4_wrapper
+     context_recall.llm = gpt4_wrapper
+     ```
+  
+  3. 평가 실행
+ 
+     ```python
+     result = evaluate(
+     dataset = dataset, 
+     metrics=[
+          faithfulness,
+          answer_relevancy,
+          context_precision,
+          context_recall,
+        ],
+     )
+     ```
+  
+  4. 결과 확인
+
+     ```python
+     df = result.to_pandas()
+     df
+     ```
