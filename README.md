@@ -39,17 +39,14 @@
 
 
 
-## 3. Data Structure & Algorithm
+## 3. [Advanced] Data Structure && Algorithm
 
-- Object-oriented paradigm and software design
-- Linked list, stack and queue
-- Recursion and dynamic programming
-- Binary Search Tree
-- Algorithm Analysis
+- `typing` 패키지 활용하기
+- Pregel 알고리즘과 LangGraph
 
 
 
-## 4. QA Chatbot
+## 4. [Implementation] QA Chatbot with LLM
 
 [Settings]
 
@@ -68,6 +65,7 @@
 - [LangChain 아키텍처](notes/1119_LangChain.md)
 - FastAPI 기반 서비스 아키텍처
 
-[Evaluation]
+[Evaluators]
 
-- [Ragas (evaluating LLM-generated text)](notes/1223_Ragas.md)
+- [[Chain] Ragas](notes/1223_Ragas.md)
+- [Agent] Agent Trajectory
