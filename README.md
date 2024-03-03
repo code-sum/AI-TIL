@@ -68,4 +68,4 @@
 [Evaluators]
 
 - [[Chain] Ragas](notes/1223_Ragas.md)
-- [Agent] Agent Trajectory
+- [[Agent] Agent Trajectory](notes/0303_Trajectory.md)
