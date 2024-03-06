@@ -39,14 +39,7 @@
 
 
 
-## 3. [Advanced] Data Structure && Algorithm
-
-- `typing` 패키지 활용하기
-- Pregel 알고리즘과 LangGraph
-
-
-
-## 4. [Implementation] QA Chatbot with LLM
+## 3. [Implementation] QA Chatbot with LLM
 
 [Settings]
 
@@ -69,3 +62,22 @@
 
 - [[Chain] Ragas](notes/1223_Ragas.md)
 - [[Agent] Agent Trajectory](notes/0303_Trajectory.md)
+
+
+
+## 4. [Advanced] Data Structure && Algorithm
+
+- `typing` 패키지 활용하기
+- Pregel 알고리즘과 LangGraph
+- DAG 알고리즘
+
+
+
+## 5. [Advanced] Academic Research
+> LLM 기반 QA Chatbot 개발 과정에서 참조한 연구 논문 
+
+- [Embedding] Natural Language Processing With Modular PDP Networks and Distributed Lexicon (1991)
+- [RAG] Adaptive Semiparametric Language Models (2021)
+- [Agent] AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation (2023)
+- [LLM] An LLM Compiler for Parallel Function Calling (2024)
+
