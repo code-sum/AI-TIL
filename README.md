@@ -76,8 +76,8 @@
 ## 5. [Advanced] Academic Research
 > LLM 기반 QA Chatbot 개발 과정에서 참조한 연구 논문 
 
-- [Embedding] Natural Language Processing With Modular PDP Networks and Distributed Lexicon (1991)
-- [RAG] Adaptive Semiparametric Language Models (2021)
-- [Agent] AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation (2023)
-- [LLM] An LLM Compiler for Parallel Function Calling (2024)
+- [Embedding] [Natural Language Processing With Modular PDP Networks and Distributed Lexicon (1991)](https://web.cs.ucla.edu/~dyer/Papers/CogSci91Risto.pdf)
+- [RAG] [Adaptive Semiparametric Language Models (2021)](https://arxiv.org/abs/2102.02557)
+- [Agent] [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation (2023)](https://arxiv.org/abs/2308.08155)
+- [LLM] [An LLM Compiler for Parallel Function Calling (2024)](https://arxiv.org/abs/2312.04511)
 
