@@ -67,7 +67,7 @@
 
 ## 4. [Advanced] Data Structure && Algorithm
 
-- `typing` 패키지 활용하기
+- [`typing` 패키지 활용](0310_typing.md)
 - Pregel 알고리즘과 LangGraph
 - DAG 알고리즘
 
