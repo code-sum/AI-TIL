@@ -80,4 +80,5 @@
 - [RAG] [Adaptive Semiparametric Language Models (2021)](https://arxiv.org/abs/2102.02557)
 - [Agent] [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation (2023)](https://arxiv.org/abs/2308.08155)
 - [LLM] [An LLM Compiler for Parallel Function Calling (2024)](https://arxiv.org/abs/2312.04511)
+- [Building long context RAG with RAPTOR from scratch] [RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval (2024)](https://arxiv.org/abs/2401.18059)
 
