@@ -14,11 +14,24 @@
 
 
 - Pregel 알고리즘과 LangGraph
-  - LangGraph 는 Pregel 과 [Apache Beam](https://beam.apache.org/) 의 영향을 받음
   - LangGraph 는 LLM 어플리케이션에 주기(cycle)를 추가하는 용도로 개발되었으며, 이는 DAG 알고리즘과 다름
     - 주기는 순환고리 내에서 LLM 을 호출하여 다음 단계에 어떤 동작을 할 것인지 물어보는 식으로 Agent 와 유사한 동작(agent-like behaviors)을 구현하는데 필요함
     - 단순히 DAG 알고리즘으로 서비스를 구현하고 싶다면, LangChain LCEL 문법을 쓰면 됨
+  - LangGraph 는 Pregel 과 [Apache Beam](https://beam.apache.org/) 의 영향을 받음
+    - `StateGraph.compile()` 처럼, 설계된 Graph 를 컴파일할 때 쓰는 `.compile()` 매서드가 LangGraph 패키지 내 `Pregel` 클래스를 상속받아 구현되어 있음
+   
+      
+      ```python
 
+      from langgraph.pregel import Channel, Pregel
+      
+      class CompiledGraph(Pregel):
+          graph: Graph
+      
+          def get_graph ...
+      ```
+
+    - `Pregel` 클래스는 `get_state`, `update_state`, `invoke`, `stream`, `transform` 등의 메서드가 구현되어 Graph 의 State 를 관리하고, 리턴값의 형태를 결정함
 
 
 - 용어
