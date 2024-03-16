@@ -60,8 +60,10 @@
 
 [Evaluators]
 
-- [[Chain] Ragas](notes/1223_Ragas.md)
-- [[Agent] Agent Trajectory](notes/0303_Trajectory.md)
+- [Chain] [Ragas](notes/1223_Ragas.md)
+- [Agent] [Agent Trajectory](notes/0303_Trajectory.md)
+
+- [Benchmark] [LangChain Benchmarks](notes/0316_Benchmarks.md)
 
 
 
