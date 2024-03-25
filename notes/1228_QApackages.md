@@ -12,8 +12,11 @@
 | Starlette  | `starlette`       | ASGI framework/toolkit                                  | [starlette](https://github.com/encode/starlette)             |
 | Uvicorn    | `uvicorn`         | ASGI Server                                             | [uvicorn](https://github.com/encode/uvicorn)                 |
 | FastAPI    | `fastapi`         | Web Server                                              | [fastapi](https://github.com/tiangolo/fastapi)               |
+| Psycopg    | `psycopg`         | Python driver for PostgreSQL (the most popular)         | [psycopg2](https://github.com/psycopg/psycopg2/)             |
 | Chroma     | `chromadb`        | VDB                                                     | [chroma](https://github.com/chroma-core/chroma)              |
 | Weaviate   | `weaviate-client` | VDB                                                     | [weaviate](https://github.com/weaviate/weaviate)             |
 | OpenSearch | `opensearch-py`   | VDB                                                     | [OpenSearch](https://github.com/opensearch-project/OpenSearch) |
 | Ragas      | `ragas`           | evaluate Retrieval Augmented Generation (RAG) pipelines | [ragas](https://github.com/explodinggradients/ragas)         |
+
+
 
