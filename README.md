@@ -72,7 +72,7 @@
 - [`typing` 패키지 활용](notes/0310_typing.md)
 - [Pregel 알고리즘과 LangGraph](notes/0313_Pregel.md)
 - [DAG 알고리즘](notes/0320_DAG.md)
-- RAG pipeline 고도화
+- [RAG pipeline 고도화](notes/0403_AdvancedRAG.md)
 
 
 
