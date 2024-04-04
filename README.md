@@ -88,6 +88,7 @@
 - [Embedding] [Natural Language Processing With Modular PDP Networks and Distributed Lexicon (1991)](https://web.cs.ucla.edu/~dyer/Papers/CogSci91Risto.pdf)
 - [RAG] [Adaptive Semiparametric Language Models (2021)](https://arxiv.org/abs/2102.02557)
 - [Agent] [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation (2023)](https://arxiv.org/abs/2308.08155)
+- [LLM] [Gemini: A Family of Highly Capable Multimodal Models (2023)](https://robintyh1.github.io/papers/gemini.pdf)
 - [LLM] [An LLM Compiler for Parallel Function Calling (2024)](https://arxiv.org/abs/2312.04511)
 - [RAG] [RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval (2024)](https://arxiv.org/abs/2401.18059)
   - 관련 영상 : [Building long context RAG with RAPTOR from scratch](https://www.youtube.com/watch?v=jbGchdTL7d0)
