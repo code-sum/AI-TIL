@@ -1,12 +1,10 @@
 # 💾매일 배운 내용 정리
 
-
-
-> KAIST [AI College]  강의노트 및 AI 프로젝트 자료모음입니다.
+> KAIST [AI College] 강의노트 및 Generative AI 프로젝트 자료모음입니다.
 
 
 
-## 1. Python Programming
+## 1. [Basic] Python Programming
 
 [Lectures]
 
@@ -23,12 +21,12 @@
 
 [Practices]
 
-- [ClassA_Practice 1](notes/0430_Practice1.md)
-- [ClassA_Practice 2](notes/0507_Practice2.md)
+- [4월30일-A반-실습자료](notes/0430_Practice1.md)
+- [5월07일-A반-실습자료](notes/0507_Practice2.md)
 
 
 
-## 2. Python DP/DA/DV 
+## 2. [Basic] Python DP / DA / DV 
 
 > Data Processing, Data Analysis, Data Visualization
 
@@ -52,17 +50,18 @@
 - [VDB 비교](notes/1112_VectorDB.md)
 - [Chroma CSV import](notes/0921_CSV.md)
 - [OpenSearch Quickstart](notes/1010_OpenSearch.md)
+- Weaviate
 
 [Framework]
 
 - [LangChain 아키텍처](notes/1119_LangChain.md)
-- FastAPI 기반 서비스 아키텍처
+- [back-end] FastAPI 기반 서비스 아키텍처
+- [front-end] Next.js 기반 서비스 아키텍처
 
 [Evaluators]
 
 - [Chain] [Ragas](notes/1223_Ragas.md)
 - [Agent] [Agent Trajectory](notes/0303_Trajectory.md)
-
 - [Benchmark] [LangChain Benchmarks](notes/0316_Benchmarks.md)
 
 
