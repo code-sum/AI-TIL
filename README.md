@@ -71,15 +71,23 @@
 - [`typing` 패키지 활용](notes/0310_typing.md)
 - [Pregel 알고리즘과 LangGraph](notes/0313_Pregel.md)
 - [DAG 알고리즘](notes/0320_DAG.md)
+- [RAG pipeline 고도화](notes/0403_AdvancedRAG.md)
 
 
 
 ## 5. [Advanced] Academic Research
-> LLM 기반 QA Chatbot 개발 과정에서 참조한 연구 논문 
+> LLM 기반 QA Chatbot 개발 과정에서 참조한 강의, 연구 논문
+
+[Lectures]
+
+- [Stanford Online] Stanford CS25: V3 I Retrieval Augmented Language Models | [(link)](https://www.youtube.com/watch?v=mE7IDf2SmJg) | (강의노트)
+
+[Articles]
 
 - [Embedding] [Natural Language Processing With Modular PDP Networks and Distributed Lexicon (1991)](https://web.cs.ucla.edu/~dyer/Papers/CogSci91Risto.pdf)
 - [RAG] [Adaptive Semiparametric Language Models (2021)](https://arxiv.org/abs/2102.02557)
 - [Agent] [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation (2023)](https://arxiv.org/abs/2308.08155)
+- [LLM] [Gemini: A Family of Highly Capable Multimodal Models (2023)](https://robintyh1.github.io/papers/gemini.pdf)
 - [LLM] [An LLM Compiler for Parallel Function Calling (2024)](https://arxiv.org/abs/2312.04511)
 - [RAG] [RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval (2024)](https://arxiv.org/abs/2401.18059)
   - 관련 영상 : [Building long context RAG with RAPTOR from scratch](https://www.youtube.com/watch?v=jbGchdTL7d0)
