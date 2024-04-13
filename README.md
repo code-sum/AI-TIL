@@ -75,7 +75,13 @@
 
 
 
-## 5. [Advanced] Academic Research
+## 5. [Advanced] Prompt Engineering
+
+- [Models | GPT-4](notes/0412_PromptGPT4.md)
+
+
+
+## 6. [Advanced] Academic Research
 > LLM 기반 QA Chatbot 개발 과정에서 참조한 강의, 연구 논문
 
 [Lectures]
