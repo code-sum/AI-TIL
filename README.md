@@ -60,7 +60,7 @@
 
 [Streaming]
 
-- 추천 Package 목록
+- [추천 Package 목록](notes/0418_Starlette.md)
 - 토큰 스트리밍 기능 구현
 
 [Evaluators]
