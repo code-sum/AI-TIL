@@ -35,3 +35,13 @@
 - [Chain] [Ragas](1223_Ragas.md)
 - [Agent] [Agent Trajectory](0303_Trajectory.md)
 - [Benchmark] [LangChain Benchmarks](0316_Benchmarks.md)
+
+
+
+## 2. [Advanced] Data Structure && Algorithm
+
+- [`typing` 패키지 활용](0310_typing.md)
+- [Pregel 알고리즘과 LangGraph](0313_Pregel.md)
+- [DAG 알고리즘](0320_DAG.md)
+- [RAG pipeline 고도화](0403_AdvancedRAG.md)
+
