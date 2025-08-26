@@ -1,4 +1,4 @@
-# Generative AI 프로젝트 자료
+# 🤖Generative AI 프로젝트 자료
 
 > - LLM-Based Chatbot
 
@@ -44,4 +44,10 @@
 - [Pregel 알고리즘과 LangGraph](0313_Pregel.md)
 - [DAG 알고리즘](0320_DAG.md)
 - [RAG pipeline 고도화](0403_AdvancedRAG.md)
+
+
+
+## 3. [Advanced] Prompt Engineering
+
+- [Models | GPT-4](0412_PromptGPT4.md)
 
