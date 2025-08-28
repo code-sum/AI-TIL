@@ -40,10 +40,22 @@
 
 ## 3. [Advanced] Recent Advances in Multimodal Deep Learning
 
+[Multi-model AI]
+
+- 
+
+[Other Applications]
+
 - 
 
 
 
 ## 4. [Advanced] Recent Advances in LLMs
 
-- 
+[AI]
+
+- dd
+
+[ML]
+
+- dd
