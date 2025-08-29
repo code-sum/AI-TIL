@@ -40,13 +40,19 @@
 
 ## 3. [Advanced] Recent Advances in Multimodal Deep Learning
 
-[Multi-model AI]
+- Week 3
+  - [dd](seminar)
+  - dd
 
-- 
+- Week 4
+  - dd
+  - dd
 
-[Other Applications]
 
-- 
+- Week 5
+  - dd
+  - dd
+
 
 
 
