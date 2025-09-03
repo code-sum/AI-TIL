@@ -48,20 +48,24 @@
   - dd
   - dd
 
-
 - Week 5
   - dd
   - dd
 
 
 
-
 ## 4. [Advanced] Recent Advances in LLMs
 
-[AI]
+[Session 1.]
+- 9/11
+  -   
+- 9/18
+  - 
+- 💡9/25
+  - 
 
+[Session 2.]
 - dd
 
-[ML]
-
+[Session 3.]
 - dd
