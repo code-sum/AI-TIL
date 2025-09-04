@@ -57,14 +57,28 @@
 ## 4. [Advanced] Recent Advances in LLMs
 
 [Session 1.]
-- 9/11
-  -   
-- 9/18
-  - 
-- 💡9/25
-  - 
+
+- W1 - 9/4
+  - Course Introduction
+
+- W2 - 9/11
+  -   1st
+  -   2nd
+  -   3rd
+- W3 - 9/18
+  - 1st
+  - 2nd
+  - 3rd
+- W4 - 9/25
+  - 1st
+  - 2nd
+    - Do LLMs Understand Dialogues? A Case Study on Dialogue Act
+  - 3rd
+- W5 - 10/2
+- W6 - 10/9 (Online)
 
 [Session 2.]
+
 - dd
 
 [Session 3.]
