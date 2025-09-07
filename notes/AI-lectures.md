@@ -41,7 +41,7 @@
 ## 3. [Advanced] Recent Advances in Multimodal Deep Learning
 
 - Week 3
-  - [dd](seminar)
+  - [dd](seminar/MM)
   - dd
 
 - Week 4
@@ -59,7 +59,7 @@
 [Session 1.]
 
 - W1 - 9/4
-  - Course Introduction
+  - [Course Introduction](seminar/LLM/S1-W1-1.md)
 
 - W2 - 9/11
   -   1st
