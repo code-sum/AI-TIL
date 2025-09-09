@@ -56,6 +56,12 @@
 
 ## 4. [Advanced] Recent Advances in LLMs
 
+[Useful References]
+
+- Lectures of other univ., e.g., Language Models (https://stanford-cs324.github.io)
+- Blog by other researchers, e.g., in OpenAI (https://lilianweng.github.io)
+- E-mail subscription for recently issued papers (https://nlp.elvissaravia.com)
+
 [Session 1.]
 
 - W1 - 9/4
