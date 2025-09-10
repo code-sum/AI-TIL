@@ -55,6 +55,10 @@
 
 
 ## 4. [Advanced] Recent Advances in LLMs
+> Candidate Award-Winning Papers
+> - [ACL 2025 award papers](https://2025.aclweb.org/program/awards/)
+> - [ACL 2024 award papers](https://2024.aclweb.org/program/best_papers/)
+> - [EMNLP 2024 award papers](https://2024.emnlp.org/program/best_papers/)
 
 [Useful References]
 
@@ -65,12 +69,11 @@
 [Session 1.]
 
 - W1 - 9/4
-  - [Course Introduction](seminar/LLM/S1-W1-1.md)
-
+  - [Course Introduction & Basics of LLMs](seminar/LLM/S1-W1-1.md)
 - W2 - 9/11
-  -   1st
-  -   2nd
-  -   3rd
+  - [LLMs know their vulnerabilities: Uncover Safety Gaps through Natural Distribution Shifts](https://aclanthology.org/2025.acl-long.1207/)
+  - [Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions](https://aclanthology.org/2025.acl-long.182/)
+  - [Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral](https://aclanthology.org/2025.acl-long.294/)
 - W3 - 9/18
   - 1st
   - 2nd
