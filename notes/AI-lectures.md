@@ -75,9 +75,14 @@
   - [Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions](https://aclanthology.org/2025.acl-long.182/)
   - [Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral](https://aclanthology.org/2025.acl-long.294/)
 - W3 - 9/18
-  - 1st
-  - 2nd
-  - 3rd
+  - From REAL to SYNTHETIC: Synthesizing Millions of Diversified and Complicated User Instructions with Attributed Grounding
+  - Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users
+  - Don’t Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration
+  - Safety Alignment Should be Made More Than Just a Few Tokens Deep
+  - Having Beer after Prayer? Measuring Cultural Bias in Large Language Models
+  - Mixtures of In-Context Learners
+  - Speculative Reward Model Boosts Decision Making Ability of LLMs Cost-Effectively
+  - A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive
 - W4 - 9/25
   - 1st
   - 2nd
