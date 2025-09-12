@@ -40,15 +40,15 @@
 
 ## 3. [Advanced] Recent Advances in Multimodal Deep Learning
 
-- Week 3
+- W3 - 9/16
   - [dd](seminar/MM)
   - dd
-
-- Week 4
   - dd
   - dd
-
-- Week 5
+- W4 - 9/23
+  - dd
+  - dd
+- W5 - 9/30
   - dd
   - dd
 
@@ -84,10 +84,14 @@
   - Speculative Reward Model Boosts Decision Making Ability of LLMs Cost-Effectively
   - A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive
 - W4 - 9/25
-  - 1st
-  - 2nd
-    - Do LLMs Understand Dialogues? A Case Study on Dialogue Act
-  - 3rd
+  - Steering Llama 2  via Contrastive Activation Addition
+  - Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models
+  - Do LLMs Understand Dialogues? A Case Study on Dialogue Act
+  - Same Task, More Tokens: the Impact of Input Length on the Reasoning Performance of Large Language Models
+  - Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs
+  - Mission: Impossible Language Models
+  - HALoGEN: Fantastic LLM Hallucinations and Where to find them
+  - FloorPlan-LLaMa: Aligning Architects’ Feedback and Domain Knowledge in Architectural Floor Plan Generation
 - W5 - 10/2
 - W6 - 10/9 (Online)
 
