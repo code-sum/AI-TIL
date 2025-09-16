@@ -41,10 +41,10 @@
 ## 3. [Advanced] Recent Advances in Multimodal Deep Learning
 
 - W3 - 9/16
-  - [dd](seminar/MM)
-  - dd
-  - dd
-  - dd
+  - RAP: Retrieval-Augmented Personalization for Multimodal Large Language Models (CVPR 2025)
+  - InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks (CVPR 2024)
+  - Flowing from Words to Pixels: A Noise-Free Framework for Cross-Modality Evolution (CVPR 2025)
+  - Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation
 - W4 - 9/23
   - dd
   - dd
