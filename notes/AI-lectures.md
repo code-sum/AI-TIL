@@ -44,9 +44,9 @@
   - RAP: Retrieval-Augmented Personalization for Multimodal Large Language Models (CVPR 2025)
   - InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks (CVPR 2024)
   - Flowing from Words to Pixels: A Noise-Free Framework for Cross-Modality Evolution (CVPR 2025)
-  - Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation
+  - Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation (ICASSP 2023)
 - W4 - 9/23
-  - dd
+  - MMaDA: Multimodal Large Diffusion Language Models (CVPR 2025)
   - dd
 - W5 - 9/30
   - dd
@@ -61,13 +61,11 @@
 > - [EMNLP 2024 award papers](https://2024.emnlp.org/program/best_papers/)
 
 [Useful References]
-
 - Lectures of other univ., e.g., Language Models (https://stanford-cs324.github.io)
 - Blog by other researchers, e.g., in OpenAI (https://lilianweng.github.io)
 - E-mail subscription for recently issued papers (https://nlp.elvissaravia.com)
 
 [Session 1.]
-
 - W1 - 9/4
   - [Course Introduction & Basics of LLMs](seminar/LLM/S1-W1-1.md)
 - W2 - 9/11
@@ -96,7 +94,6 @@
 - W6 - 10/9 (Online)
 
 [Session 2.]
-
 - dd
 
 [Session 3.]
