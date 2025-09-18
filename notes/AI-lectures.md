@@ -41,12 +41,12 @@
 ## 3. [Advanced] Recent Advances in Multimodal Deep Learning
 
 - W3 - 9/16
-  - RAP: Retrieval-Augmented Personalization for Multimodal Large Language Models (CVPR 2025)
-  - InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks (CVPR 2024)
-  - Flowing from Words to Pixels: A Noise-Free Framework for Cross-Modality Evolution (CVPR 2025)
-  - Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation (ICASSP 2023)
+  - [CVPR 2025] RAP: Retrieval-Augmented Personalization for Multimodal Large Language Models
+  - [CVPR 2024] InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks
+  - [CVPR 2025] Flowing from Words to Pixels: A Noise-Free Framework for Cross-Modality Evolution
+  - [ICASSP 2023] Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation
 - W4 - 9/23
-  - MMaDA: Multimodal Large Diffusion Language Models (CVPR 2025)
+  - [CVPR 2025] MMaDA: Multimodal Large Diffusion Language Models
   - dd
 - W5 - 9/30
   - dd
@@ -69,18 +69,19 @@
 - W1 - 9/4
   - [Course Introduction & Basics of LLMs](seminar/LLM/S1-W1-1.md)
 - W2 - 9/11
-  - [LLMs know their vulnerabilities: Uncover Safety Gaps through Natural Distribution Shifts](https://aclanthology.org/2025.acl-long.1207/)
-  - [Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions](https://aclanthology.org/2025.acl-long.182/)
-  - [Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral](https://aclanthology.org/2025.acl-long.294/)
+  - [ACL 2025] LLMs know their vulnerabilities: Uncover Safety Gaps through Natural Distribution Shifts (note) [(link)](https://aclanthology.org/2025.acl-long.1207/)
+  - [ACL 2025] Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions (note) [(link)](https://aclanthology.org/2025.acl-long.182/)
+  - [ACL 2025] Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral (note) [(link)](https://aclanthology.org/2025.acl-long.294/)
 - W3 - 9/18
-  - From REAL to SYNTHETIC: Synthesizing Millions of Diversified and Complicated User Instructions with Attributed Grounding
-  - Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users
-  - Don’t Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration
-  - Safety Alignment Should be Made More Than Just a Few Tokens Deep
-  - Having Beer after Prayer? Measuring Cultural Bias in Large Language Models
-  - Mixtures of In-Context Learners
-  - Speculative Reward Model Boosts Decision Making Ability of LLMs Cost-Effectively
-  - A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive
+  - [ACL 2025] From REAL to SYNTHETIC: Synthesizing Millions of Diversified and Complicated User Instructions with Attributed Grounding (note) [(link)](https://aclanthology.org/2025.acl-long.517/)
+  - [EMNLP 2024] Fool Me Once? Contrasting Textual and Visual Explanations in a Clinical Decision-Support Setting (note) [(link)](https://arxiv.org/abs/2410.12284)
+  - [ACL 2025] Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users (note) [(link)](https://aclanthology.org/2025.acl-long.1260/)
+  - [ACL 2024] Don’t Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration (note) [(link)](https://aclanthology.org/2024.acl-long.786.pdf)
+  - [ICLR 2025] Safety Alignment Should be Made More Than Just a Few Tokens Deep (note) [(link)](https://openreview.net/forum?id=6Mxhg9PtDE)
+  - [ACL 2024] Having Beer after Prayer? Measuring Cultural Bias in Large Language Models (note) [(link)](https://aclanthology.org/2024.acl-long.862.pdf)
+  - [ACL 2025] Mixtures of In-Context Learners (note) [(link)](https://aclanthology.org/2025.acl-long.1277/)
+  - [ACL 2025] Speculative Reward Model Boosts Decision Making Ability of LLMs Cost-Effectively (note) [(link)](https://arxiv.org/pdf/2506.00396?)
+  - [ACL 2025] A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive (note) [(link)](https://aclanthology.org/2025.acl-long.1454/)
 - W4 - 9/25
   - Steering Llama 2  via Contrastive Activation Addition
   - Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models
