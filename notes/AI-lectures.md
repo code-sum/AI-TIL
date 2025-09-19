@@ -81,9 +81,9 @@
   - [ACL 2024] Having Beer after Prayer? Measuring Cultural Bias in Large Language Models (note) [(link)](https://aclanthology.org/2024.acl-long.862.pdf)
   - [ACL 2025] Mixtures of In-Context Learners (note) [(link)](https://aclanthology.org/2025.acl-long.1277/)
   - [ACL 2025] Speculative Reward Model Boosts Decision Making Ability of LLMs Cost-Effectively (note) [(link)](https://arxiv.org/pdf/2506.00396?)
-  - [ACL 2025] A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive (note) [(link)](https://aclanthology.org/2025.acl-long.1454/)
 - W4 - 9/25
-  - Steering Llama 2  via Contrastive Activation Addition
+  - [ACL 2025] A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive (note) [(link)](https://aclanthology.org/2025.acl-long.1454/)
+  - [ACL 2024] Steering Llama 2  via Contrastive Activation Addition (note) [(link)](https://aclanthology.org/2024.acl-long.828/)
   - Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models
   - Do LLMs Understand Dialogues? A Case Study on Dialogue Act
   - Same Task, More Tokens: the Impact of Input Length on the Reasoning Performance of Large Language Models
