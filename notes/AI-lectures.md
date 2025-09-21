@@ -3,8 +3,6 @@
 > - KAIST | AI College
 > - Yonsei University | College of Computing
 
-
-
 ## 1. [Basic] Python Programming
 
 [Lectures]
@@ -25,9 +23,7 @@
 - [4월30일-A반-실습자료](0430_Practice1.md)
 - [5월07일-A반-실습자료](0507_Practice2.md)
 
-
-
-## 2. [Basic] Python DP / DA / DV 
+## 2. [Basic] Python DP / DA / DV
 
 > Data Processing, Data Analysis, Data Visualization
 
@@ -36,15 +32,13 @@
 - [Pandas 객체소개 및 심화](0515_Pandas.md)
 - [Matplotlib](0517_Matplotlib.md)
 
-
-
 ## 3. [Advanced] Recent Advances in Multimodal Deep Learning
 
 - W3 - 9/16
-  - [CVPR 2025] RAP: Retrieval-Augmented Personalization for Multimodal Large Language Models
-  - [CVPR 2024] InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks
-  - [CVPR 2025] Flowing from Words to Pixels: A Noise-Free Framework for Cross-Modality Evolution
-  - [ICASSP 2023] Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation
+  - [CVPR 2025] RAP: Retrieval-Augmented Personalization for Multimodal Large Language Models [(link)](https://arxiv.org/abs/2410.13360)
+  - [CVPR 2024] InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks [(link)](https://arxiv.org/abs/2312.14238)
+  - [CVPR 2025] Flowing from Words to Pixels: A Noise-Free Framework for Cross-Modality Evolution [(link)](https://arxiv.org/pdf/2412.15213)
+  - [ICASSP 2023] Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation [(link)](https://arxiv.org/abs/2211.06687)
 - W4 - 9/23
   - [CVPR 2025] MMaDA: Multimodal Large Diffusion Language Models
   - dd
@@ -52,20 +46,22 @@
   - dd
   - dd
 
-
-
 ## 4. [Advanced] Recent Advances in LLMs
+
 > Candidate Award-Winning Papers
+>
 > - [ACL 2025 award papers](https://2025.aclweb.org/program/awards/)
 > - [ACL 2024 award papers](https://2024.aclweb.org/program/best_papers/)
 > - [EMNLP 2024 award papers](https://2024.emnlp.org/program/best_papers/)
 
 [Useful References]
+
 - Lectures of other univ., e.g., Language Models (https://stanford-cs324.github.io)
 - Blog by other researchers, e.g., in OpenAI (https://lilianweng.github.io)
 - E-mail subscription for recently issued papers (https://nlp.elvissaravia.com)
 
 [Session 1.]
+
 - W1 - 9/4
   - [Course Introduction & Basics of LLMs](seminar/LLM/S1-W1-1.md)
 - W2 - 9/11
@@ -83,7 +79,7 @@
   - [ACL 2025] Speculative Reward Model Boosts Decision Making Ability of LLMs Cost-Effectively (note) [(link)](https://arxiv.org/pdf/2506.00396?)
 - W4 - 9/25
   - [ACL 2025] A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive (note) [(link)](https://aclanthology.org/2025.acl-long.1454/)
-  - [ACL 2024] Steering Llama 2  via Contrastive Activation Addition (note) [(link)](https://aclanthology.org/2024.acl-long.828/)
+  - [ACL 2024] Steering Llama 2 via Contrastive Activation Addition (note) [(link)](https://aclanthology.org/2024.acl-long.828/)
   - Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models
   - Do LLMs Understand Dialogues? A Case Study on Dialogue Act
   - Same Task, More Tokens: the Impact of Input Length on the Reasoning Performance of Large Language Models
@@ -95,7 +91,9 @@
 - W6 - 10/9 (Online)
 
 [Session 2.]
+
 - dd
 
 [Session 3.]
+
 - dd
