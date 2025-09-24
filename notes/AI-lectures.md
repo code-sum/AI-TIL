@@ -82,14 +82,16 @@
 - W4 - 9/25
   - [ACL 2025] A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive (note) [(link)](https://aclanthology.org/2025.acl-long.1454/)
   - [ACL 2024] Steering Llama 2 via Contrastive Activation Addition (note) [(link)](https://aclanthology.org/2024.acl-long.828/)
-  - Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models
-  - Do LLMs Understand Dialogues? A Case Study on Dialogue Act
-  - Same Task, More Tokens: the Impact of Input Length on the Reasoning Performance of Large Language Models
-  - Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs
-  - Mission: Impossible Language Models
-  - HALoGEN: Fantastic LLM Hallucinations and Where to find them
-  - FloorPlan-LLaMa: Aligning Architects’ Feedback and Domain Knowledge in Architectural Floor Plan Generation
+  - Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models (note) [(link)](https://arxiv.org/abs/2401.07159)
+  - Do LLMs Understand Dialogues? A Case Study on Dialogue Act (note) [(link)](https://aclanthology.org/2025.acl-long.1271/)
+  - Same Task, More Tokens: the Impact of Input Length on the Reasoning Performance of Large Language Models (note) [(link)](https://arxiv.org/abs/2402.14848)
+  - Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs (note) [(link)](https://arxiv.org/abs/2502.01926)
+  - Mission: Impossible Language Models (note) [(link)](https://arxiv.org/abs/2401.06416)
+  - HALoGEN: Fantastic LLM Hallucinations and Where to find them (note) [(link)](https://arxiv.org/abs/2501.08292)
+  - FloorPlan-LLaMa: Aligning Architects’ Feedback and Domain Knowledge in Architectural Floor Plan Generation (note) [(link)](https://aclanthology.org/2025.acl-long.331/)
 - W5 - 10/2
+  - 
+
 - W6 - 10/9 (Online)
 
 [Session 2.]
