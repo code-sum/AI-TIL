@@ -68,7 +68,7 @@
   - [Course Introduction & Basics of LLMs](seminar/LLM/S1-W1-1.md)
 - W2 - 9/11
   - [ACL 2025] LLMs know their vulnerabilities: Uncover Safety Gaps through Natural Distribution Shifts (note) [(link)](https://aclanthology.org/2025.acl-long.1207/)
-  - [ACL 2025] Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions (note) [(link)](https://aclanthology.org/2025.acl-long.182/)
+  - [ACL 2025] Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models (note) [(link)](https://aclanthology.org/2025.acl-long.533/)
   - [ACL 2025] Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral (note) [(link)](https://aclanthology.org/2025.acl-long.294/)
 - W3 - 9/18
   - [ACL 2025] From REAL to SYNTHETIC: Synthesizing Millions of Diversified and Complicated User Instructions with Attributed Grounding (note) [(link)](https://aclanthology.org/2025.acl-long.517/)
@@ -81,9 +81,8 @@
   - [ACL 2025] Speculative Reward Model Boosts Decision Making Ability of LLMs Cost-Effectively (note) [(link)](https://arxiv.org/pdf/2506.00396?)
 - W4 - 9/25
   - [ACL 2025] A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive (note) [(link)](https://aclanthology.org/2025.acl-long.1454/)
-  - [ACL 2024] Steering Llama 2 via Contrastive Activation Addition (note) [(link)](https://aclanthology.org/2024.acl-long.828/)
   - [ACL 2024] Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models (note) [(link)](https://arxiv.org/abs/2401.07159)
-  - [ACL 2025] Do LLMs Understand Dialogues? A Case Study on Dialogue Act [(note)](seminar/LLM/S1-W4-4.md) [(link)](https://aclanthology.org/2025.acl-long.1271/)
+  - [ACL 2025] Do LLMs Understand Dialogues? A Case Study on Dialogue Act [(note)](seminar/LLM/S1-W4-3.md) [(link)](https://aclanthology.org/2025.acl-long.1271/)
   - [ACL 2024] Same Task, More Tokens: the Impact of Input Length on the Reasoning Performance of Large Language Models (note) [(link)](https://arxiv.org/abs/2402.14848)
   - [ACL 2025] Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs (note) [(link)](https://arxiv.org/abs/2502.01926)
   - [ACL 2024] Mission: Impossible Language Models (note) [(link)](https://arxiv.org/abs/2401.06416)
@@ -91,8 +90,9 @@
   - [ACL 2025] FloorPlan-LLaMa: Aligning Architects’ Feedback and Domain Knowledge in Architectural Floor Plan Generation (note) [(link)](https://aclanthology.org/2025.acl-long.331/)
 - W5 - 10/2
   - 
-
 - W6 - 10/9 (Online)
+  - [ACL 2024] Steering Llama 2 via Contrastive Activation Addition (note) [(link)](https://aclanthology.org/2024.acl-long.828/)
+
 
 [Session 2.]
 
