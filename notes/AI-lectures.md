@@ -40,10 +40,10 @@
   - [CVPR 2025] Flowing from Words to Pixels: A Noise-Free Framework for Cross-Modality Evolution [(link)](https://arxiv.org/abs/2412.15213)
   - [ICASSP 2023] Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation [(link)](https://arxiv.org/abs/2211.06687)
 - W4 - 9/23
-  - LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning [(link)](https://arxiv.org/abs/2505.16933)
-  - The Point, the Vision and the Text: Does Point Cloud Boost Spatial Reasoning of Large Language Models? [(link)](https://arxiv.org/abs/2504.04540)
+  - [CVPR 2025] LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning [(link)](https://arxiv.org/abs/2505.16933)
+  - [CVPR 2025] The Point, the Vision and the Text: Does Point Cloud Boost Spatial Reasoning of Large Language Models? [(link)](https://arxiv.org/abs/2504.04540)
   - [CVPR 2025] Cross-modal Information Flow in Multimodal Large Language Models [(link)](https://arxiv.org/abs/2411.18620)
-  - Tackling View-Dependent Semantics in 3D Language Gaussian Splatting [(link)](https://arxiv.org/abs/2505.24746)
+  - [CVPR 2025] Tackling View-Dependent Semantics in 3D Language Gaussian Splatting [(link)](https://arxiv.org/abs/2505.24746)
 - W5 - 9/30
   - dd
   - dd
@@ -89,10 +89,8 @@
   - [ACL 2025] HALoGEN: Fantastic LLM Hallucinations and Where to find them (note) [(link)](https://arxiv.org/abs/2501.08292)
   - [ACL 2025] FloorPlan-LLaMa: Aligning Architects’ Feedback and Domain Knowledge in Architectural Floor Plan Generation (note) [(link)](https://aclanthology.org/2025.acl-long.331/)
 - W5 - 10/2
-  - 
 - W6 - 10/9 (Online)
   - [ACL 2024] Steering Llama 2 via Contrastive Activation Addition (note) [(link)](https://aclanthology.org/2024.acl-long.828/)
-
 
 [Session 2.]
 
