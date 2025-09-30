@@ -45,6 +45,13 @@
   - [CVPR 2025] Cross-modal Information Flow in Multimodal Large Language Models [(link)](https://arxiv.org/abs/2411.18620)
   - [CVPR 2025] Tackling View-Dependent Semantics in 3D Language Gaussian Splatting [(link)](https://arxiv.org/abs/2505.24746)
 - W5 - 9/30
+  - [ICLR 2023] Contrastive Audio-Visual Masked Autoencoder [(link)](https://arxiv.org/abs/2210.07839)
+  - [CVPR 2025] Towards Zero-shot Anomaly Detection and Reasoning with Multimodal Large Language Models [(link)](https://arxiv.org/abs/2502.07601)
+  - [CVPR 2025] Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration [(link)](https://arxiv.org/abs/2502.16652)
+- W7 - 10/14
+  - dd
+  - dd
+- W9 - 10/28
   - dd
   - dd
 
