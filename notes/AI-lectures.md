@@ -96,6 +96,13 @@
   - [ACL 2025] HALoGEN: Fantastic LLM Hallucinations and Where to find them (note) [(link)](https://arxiv.org/abs/2501.08292)
   - [ACL 2025] FloorPlan-LLaMa: Aligning Architects’ Feedback and Domain Knowledge in Architectural Floor Plan Generation (note) [(link)](https://aclanthology.org/2025.acl-long.331/)
 - W5 - 10/2
+  - [ACL 2025] Byte Latent Transformer: Patches Scale Better Than Tokens (note) [(link)](https://aclanthology.org/2025.acl-long.453/)
+  - [ACL 2025] Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling (note) [(link)](https://aclanthology.org/2025.acl-long.338/)
+  - [ACL 2025] Revisiting Compositional Generalization Capability of Large Language Models Considering Instruction Following Ability (note) [(link)](https://aclanthology.org/2025.acl-long.1508/)
+  - [ACL 2025] Llama See, Llama Do: A Mechanistic Perspective on Contextual Entrainment and Distraction in LLMs (note) [(link)](https://aclanthology.org/2025.acl-long.791/)
+  - [EMNLP 2024] Formality is Favored: Unraveling the Learning Preferences of Large Language Models on Data with Conflicting Knowledge (note) [(link)](https://arxiv.org/abs/2410.04784)
+  - [ACL 2025] Bridging the Language Gaps in Large Language Models with Inference-Time Cross-Lingual Intervention (note) [(link)](https://arxiv.org/pdf/2410.12462)
+  - [ACL 2025] Language Models Resist Alignment: Evidence From Data Compression (note) [(link)](https://aclanthology.org/2025.acl-long.1141/)
 - W6 - 10/9 (Online)
   - [ACL 2024] Steering Llama 2 via Contrastive Activation Addition (note) [(link)](https://aclanthology.org/2024.acl-long.828/)
 
