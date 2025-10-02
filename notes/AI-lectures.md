@@ -69,7 +69,7 @@
 - Blog by other researchers, e.g., in OpenAI (https://lilianweng.github.io)
 - E-mail subscription for recently issued papers (https://nlp.elvissaravia.com)
 
-[Session 1.]
+[Session 1.] w/Professor Yeo
 
 - W1 - 9/4
   - [Course Introduction & Basics of LLMs](seminar/LLM/S1-W1-1.md)
@@ -95,7 +95,7 @@
   - [ACL 2024] Mission: Impossible Language Models (note) [(link)](https://arxiv.org/abs/2401.06416)
   - [ACL 2025] HALoGEN: Fantastic LLM Hallucinations and Where to find them (note) [(link)](https://arxiv.org/abs/2501.08292)
   - [ACL 2025] FloorPlan-LLaMa: Aligning Architects’ Feedback and Domain Knowledge in Architectural Floor Plan Generation (note) [(link)](https://aclanthology.org/2025.acl-long.331/)
-- W5 - 10/2
+- W5 - 10/2 (Online)
   - [ACL 2025] Byte Latent Transformer: Patches Scale Better Than Tokens (note) [(link)](https://aclanthology.org/2025.acl-long.453/)
   - [ACL 2025] Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling (note) [(link)](https://aclanthology.org/2025.acl-long.338/)
   - [ACL 2025] Revisiting Compositional Generalization Capability of Large Language Models Considering Instruction Following Ability (note) [(link)](https://aclanthology.org/2025.acl-long.1508/)
@@ -106,10 +106,10 @@
 - W6 - 10/9 (Online)
   - [ACL 2024] Steering Llama 2 via Contrastive Activation Addition (note) [(link)](https://aclanthology.org/2024.acl-long.828/)
 
-[Session 2.]
+[Session 2.] w/Professor Kim
 
 - dd
 
-[Session 3.]
+[Session 3.] w/Professor Lee
 
 - dd
