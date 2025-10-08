@@ -104,12 +104,22 @@
   - [ACL 2025] Bridging the Language Gaps in Large Language Models with Inference-Time Cross-Lingual Intervention (note) [(link)](https://arxiv.org/pdf/2410.12462)
   - [ACL 2025] Language Models Resist Alignment: Evidence From Data Compression (note) [(link)](https://aclanthology.org/2025.acl-long.1141/)
 - W6 - 10/9 (Online)
+  - [ACL 2025] A Text is Worth Several Tokens: Text Embedding from LLMs Secretly Aligns Well with The Key Tokens (note) [(link)](https://aclanthology.org/2025.acl-long.379/)
+  - [EMNLP 2024] A User-Centric Multi-Intent Benchmark for Evaluating Large Language Models (note) [(link)](https://aclanthology.org/2024.emnlp-main.210.pdf)
+  - [ACL 2025] BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages (note) [(link)](https://aclanthology.org/2025.acl-long.436/)
+  - [ACL 2025] Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention (note) [(link)](https://aclanthology.org/2025.acl-long.1126/)
+  - [ACL 2025] Dehumanizing Machines: Mitigating Anthropomorphic Behaviors in Text Generation Systems (note) [(link)](https://aclanthology.org/2025.acl-long.1259/ )
+  - [ACL 2025] Finding Needles in Images: Can Multi-modal LLMs Locate Fine Details? (note) [(link)](https://aclanthology.org/2025.acl-long.1152/)
+  - [EMNLP 2024] Towards Robust Speech Representation Learning for Thousands of Languages (note) [(link)](https://arxiv.org/pdf/2407.00837)
+  - [ACL 2025] Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models (note) [(link)](https://aclanthology.org/2025.acl-long.374/)
+  - [ACL 2024] L-Eval: Instituting Standardized Evaluation for Long Context Language Models (note) [(link)](https://aclanthology.org/2024.acl-long.776/)
+  - [ACL 2025] Steering off Course: Reliability Challenges in Steering Language Models (note) [(link)](https://aclanthology.org/2025.acl-long.974.pdf)
   - [ACL 2024] Steering Llama 2 via Contrastive Activation Addition (note) [(link)](https://aclanthology.org/2024.acl-long.828/)
 
-[Session 2.] w/Professor Kim
+[Session 2.] w/Professor Lee
 
 - dd
 
-[Session 3.] w/Professor Lee
+[Session 3.] w/Professor Kim
 
 - dd
