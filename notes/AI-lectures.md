@@ -49,8 +49,9 @@
   - [CVPR 2025] Towards Zero-shot Anomaly Detection and Reasoning with Multimodal Large Language Models [(link)](https://arxiv.org/abs/2502.07601)
   - [CVPR 2025] Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration [(link)](https://arxiv.org/abs/2502.16652)
 - W7 - 10/14
-  - Reducing Hallucinations in Large Vision Language Models via Latent Space Steering
-  - Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts
+  - Reducing Hallucinations in Large Vision Language Models via Latent Space Steering [(link)](https://arxiv.org/abs/2410.15778)
+  - MBQ: Modality-Balanced Quantization for Large Vision-Language Models [(link)](https://arxiv.org/abs/2412.19509)
+  - Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts [(link)](https://arxiv.org/abs/2405.11273)
 - W7 - 10/15
   - RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control
 - W9 - 10/28
