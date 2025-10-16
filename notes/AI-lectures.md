@@ -54,6 +54,7 @@
   - Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts [(link)](https://arxiv.org/abs/2405.11273)
 - W7 - 10/15
   - RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control
+  - V.I.P. : Iterative Online Preference Distillation for Efficient Video Diffusion Models
 - W9 - 10/28
   - dd
   - dd
@@ -121,7 +122,14 @@
 
 [Session 2.] w/Professor Lee
 
-- dd
+- W7 - 10/16
+  - [ICLR 2025] xFinder: LLMs as Automated Evaluators for Reliable Evaluation
+  - [ACL 2025] YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering
+  - [ACL 2025] CalibraEval: Calibrating Prediction Distribution to Mitigate Selection Bias in LLMs-as-Judges
+  - [ICLR 2025] Beyond Scalar Reward Model: Learning Generative Judge from Preference Data
+  - [ACL 2025] M-RewardBench: Evaluating Reward Models in Multilingual Settings
+  - [ICLR 2025] RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style
+  - [COLM 2025] Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers
 
 [Session 3.] w/Professor Kim
 
