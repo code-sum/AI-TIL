@@ -123,13 +123,12 @@
 [Session 2.] w/Professor Lee
 
 - W7 - 10/16
-  - [ICLR 2025] xFinder: LLMs as Automated Evaluators for Reliable Evaluation
-  - [ACL 2025] YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering
-  - [ACL 2025] CalibraEval: Calibrating Prediction Distribution to Mitigate Selection Bias in LLMs-as-Judges
-  - [ICLR 2025] Beyond Scalar Reward Model: Learning Generative Judge from Preference Data
-  - [ACL 2025] M-RewardBench: Evaluating Reward Models in Multilingual Settings
+  - ✅[ACL 2025] YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering
+  - ✅[ACL 2025] CalibraEval: Calibrating Prediction Distribution to Mitigate Selection Bias in LLMs-as-Judges
+  - ✅[ICLR 2025] Beyond Scalar Reward Model: Learning Generative Judge from Preference Data
+  - ✅[ACL 2025] M-RewardBench: Evaluating Reward Models in Multilingual Settings
   - [ICLR 2025] RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style
-  - [COLM 2025] Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers
+  - ✅[COLM 2025] Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers
 
 [Session 3.] w/Professor Kim
 
