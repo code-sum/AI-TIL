@@ -34,6 +34,8 @@
 
 ## 3. [Advanced] Recent Advances in Multimodal Deep Learning
 
+[Session 1.] w/Professor Hwang
+
 - W3 - 9/16
   - [CVPR 2025] RAP: Retrieval-Augmented Personalization for Multimodal Large Language Models [(link)](https://arxiv.org/abs/2410.13360)
   - [CVPR 2024] InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks [(link)](https://arxiv.org/abs/2312.14238)
@@ -58,6 +60,10 @@
 - W9 - 10/28
   - dd
   - dd
+
+[Session 2.] w/Professor Park
+
+- W
 
 ## 4. [Advanced] Recent Advances in LLMs
 
@@ -123,12 +129,16 @@
 [Session 2.] w/Professor Lee
 
 - W7 - 10/16
-  - ✅[ACL 2025] YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering
-  - ✅[ACL 2025] CalibraEval: Calibrating Prediction Distribution to Mitigate Selection Bias in LLMs-as-Judges
-  - ✅[ICLR 2025] Beyond Scalar Reward Model: Learning Generative Judge from Preference Data
-  - ✅[ACL 2025] M-RewardBench: Evaluating Reward Models in Multilingual Settings
+  - ✅[ACL 2025] YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering [(link)](https://arxiv.org/abs/2505.14279)
+  - ✅[ACL 2025] CalibraEval: Calibrating Prediction Distribution to Mitigate Selection Bias in LLMs-as-Judges [(link)](https://arxiv.org/abs/2410.15393)
+  - ✅[ICLR 2025] Beyond Scalar Reward Model: Learning Generative Judge from Preference Data [(link)](https://arxiv.org/abs/2410.03742)
+  - ✅[ACL 2025] M-RewardBench: Evaluating Reward Models in Multilingual Settings [(link)](https://arxiv.org/abs/2410.15522)
   - [ICLR 2025] RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style
-  - ✅[COLM 2025] Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers
+  - ✅[COLM 2025] Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers [(link)](https://arxiv.org/abs/2502.20379)
+- W8 - 10/23
+- W9 - 10/30
+- W10 - 11/6 (Online)
+- W11 - 11/13
 
 [Session 3.] w/Professor Kim
 
