@@ -128,17 +128,24 @@
 
 [Session 2.] w/Professor Lee
 
-- W7 - 10/16
+- W7 - 10/16 - Benchmarking & Evaluation
   - ✅[ACL 2025] YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering [(link)](https://arxiv.org/abs/2505.14279)
   - ✅[ACL 2025] CalibraEval: Calibrating Prediction Distribution to Mitigate Selection Bias in LLMs-as-Judges [(link)](https://arxiv.org/abs/2410.15393)
   - ✅[ICLR 2025] Beyond Scalar Reward Model: Learning Generative Judge from Preference Data [(link)](https://arxiv.org/abs/2410.03742)
   - ✅[ACL 2025] M-RewardBench: Evaluating Reward Models in Multilingual Settings [(link)](https://arxiv.org/abs/2410.15522)
   - [ICLR 2025] RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style
   - ✅[COLM 2025] Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers [(link)](https://arxiv.org/abs/2502.20379)
-- W8 - 10/23
-- W9 - 10/30
-- W10 - 11/6 (Online)
-- W11 - 11/13
+- W8 - 10/23 - Reasoning Enhancement
+  - [ICLR 2025] SuperCorrect: Advancing Small LLM Reasoning with Thought Template Distillation and Self-Correction
+  - [NeurIPS 2025] Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning
+  - Less is More: Recursive Reasoning with Tiny Networks
+  - [NeurIPS 2025] ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs
+  - Learning to Reason without External Rewards
+  - Direct Reasoning Optimization: LLMs Can Reward And Refine Their Own Reasoning for Open-Ended Tasks
+  - Deep Think with Confidence
+- W9 - 10/30 - Information Retrieval & Text Mining 
+- W10 - 11/6 (Online) - Decision Making & Insight Generation
+- W11 - 11/13 - Dialogue & Interactive System
 
 [Session 3.] w/Professor Kim
 
