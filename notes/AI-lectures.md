@@ -118,7 +118,7 @@
   - [EMNLP 2024] A User-Centric Multi-Intent Benchmark for Evaluating Large Language Models (note) [(link)](https://aclanthology.org/2024.emnlp-main.210.pdf)
   - ✅[ACL 2025] BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages (note) [(link)](https://aclanthology.org/2025.acl-long.436/)
   - [ACL 2025] Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention (note) [(link)](https://aclanthology.org/2025.acl-long.1126/)
-  - ✅[ACL 2025] Dehumanizing Machines: Mitigating Anthropomorphic Behaviors in Text Generation Systems (note) [(link)](https://aclanthology.org/2025.acl-long.1259/ )
+  - ✅[ACL 2025] Dehumanizing Machines: Mitigating Anthropomorphic Behaviors in Text Generation Systems (note) [(link)](https://aclanthology.org/2025.acl-long.1259/)
   - [ACL 2025] Finding Needles in Images: Can Multi-modal LLMs Locate Fine Details? (note) [(link)](https://aclanthology.org/2025.acl-long.1152/)
   - [EMNLP 2024] Towards Robust Speech Representation Learning for Thousands of Languages (note) [(link)](https://arxiv.org/pdf/2407.00837)
   - [ACL 2025] Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models (note) [(link)](https://aclanthology.org/2025.acl-long.374/)
@@ -136,14 +136,13 @@
   - [ICLR 2025] RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style
   - ✅[COLM 2025] Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers [(link)](https://arxiv.org/abs/2502.20379)
 - W8 - 10/23 - Reasoning Enhancement
-  - [ICLR 2025] SuperCorrect: Advancing Small LLM Reasoning with Thought Template Distillation and Self-Correction
-  - [NeurIPS 2025] Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning
-  - Less is More: Recursive Reasoning with Tiny Networks
-  - [NeurIPS 2025] ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs
-  - Learning to Reason without External Rewards
-  - Direct Reasoning Optimization: LLMs Can Reward And Refine Their Own Reasoning for Open-Ended Tasks
-  - Deep Think with Confidence
-- W9 - 10/30 - Information Retrieval & Text Mining 
+  - [ICLR 2025] SuperCorrect: Advancing Small LLM Reasoning with Thought Template Distillation and Self-Correction [(link)](https://arxiv.org/abs/2410.09008)
+  - [NeurIPS 2025] Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning [(link)](https://arxiv.org/abs/2505.20161)
+  - [arXiv 2025] Less is More: Recursive Reasoning with Tiny Networks [(link)](https://arxiv.org/abs/2510.04871)
+  - [NeurIPS 2025] ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs [(link)](https://arxiv.org/abs/2506.18896)
+  - [arXiv 2025] Learning to Reason without External Rewards [(link)](https://arxiv.org/abs/2505.19590)
+  - [arXiv 2025] Deep Think with Confidence [(link)](https://arxiv.org/abs/2508.15260)
+- W9 - 10/30 - Information Retrieval & Text Mining
 - W10 - 11/6 (Online) - Decision Making & Insight Generation
 - W11 - 11/13 - Dialogue & Interactive System
 
