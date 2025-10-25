@@ -133,15 +133,15 @@
   - ✅[ACL 2025] CalibraEval: Calibrating Prediction Distribution to Mitigate Selection Bias in LLMs-as-Judges [(link)](https://arxiv.org/abs/2410.15393)
   - ✅[ICLR 2025] Beyond Scalar Reward Model: Learning Generative Judge from Preference Data [(link)](https://arxiv.org/abs/2410.03742)
   - ✅[ACL 2025] M-RewardBench: Evaluating Reward Models in Multilingual Settings [(link)](https://arxiv.org/abs/2410.15522)
-  - [ICLR 2025] RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style
   - ✅[COLM 2025] Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers [(link)](https://arxiv.org/abs/2502.20379)
 - W8 - 10/23 - Reasoning Enhancement
-  - [ICLR 2025] SuperCorrect: Advancing Small LLM Reasoning with Thought Template Distillation and Self-Correction [(link)](https://arxiv.org/abs/2410.09008)
-  - [NeurIPS 2025] Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning [(link)](https://arxiv.org/abs/2505.20161)
-  - [arXiv 2025] Less is More: Recursive Reasoning with Tiny Networks [(link)](https://arxiv.org/abs/2510.04871)
-  - [NeurIPS 2025] ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs [(link)](https://arxiv.org/abs/2506.18896)
-  - [arXiv 2025] Learning to Reason without External Rewards [(link)](https://arxiv.org/abs/2505.19590)
-  - [arXiv 2025] Deep Think with Confidence [(link)](https://arxiv.org/abs/2508.15260)
+  - ✅[ICLR 2025] RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style
+  - ✅[ICLR 2025] SuperCorrect: Advancing Small LLM Reasoning with Thought Template Distillation and Self-Correction [(link)](https://arxiv.org/abs/2410.09008)
+  - ✅[NeurIPS 2025] Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning [(link)](https://arxiv.org/abs/2505.20161)
+  - ✅[arXiv 2025] Less is More: Recursive Reasoning with Tiny Networks [(link)](https://arxiv.org/abs/2510.04871)
+  - ✅[NeurIPS 2025] ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs [(link)](https://arxiv.org/abs/2506.18896)
+  - ✅[arXiv 2025] Learning to Reason without External Rewards [(link)](https://arxiv.org/abs/2505.19590)
+  - ✅[arXiv 2025] Deep Think with Confidence [(link)](https://arxiv.org/abs/2508.15260)
 - W9 - 10/30 - Information Retrieval & Text Mining
 - W10 - 11/6 (Online) - Decision Making & Insight Generation
 - W11 - 11/13 - Dialogue & Interactive System
