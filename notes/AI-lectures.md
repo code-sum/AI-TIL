@@ -55,7 +55,7 @@
   - [CVPR 2025] MBQ: Modality-Balanced Quantization for Large Vision-Language Models [(link)](https://arxiv.org/abs/2412.19509)
   - [IEEE Transactions on Pattern Analysis and Machine Intelligence] Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts [(link)](https://arxiv.org/abs/2405.11273)
 - W7 - 10/15
-  - RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [(link)](https://arxiv.org/abs/2307.15818)
+  - [arXiv 2023] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [(link)](https://arxiv.org/abs/2307.15818)
   - [ICCV 2025] V.I.P. : Iterative Online Preference Distillation for Efficient Video Diffusion Models [(link)](https://arxiv.org/abs/2508.03254)
 - W9 - 10/28
   - dd
