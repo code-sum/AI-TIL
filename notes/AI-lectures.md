@@ -58,8 +58,10 @@
   - [arXiv 2023] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [(link)](https://arxiv.org/abs/2307.15818)
   - [ICCV 2025] V.I.P. : Iterative Online Preference Distillation for Efficient Video Diffusion Models [(link)](https://arxiv.org/abs/2508.03254)
 - W9 - 10/28
-  - dd
-  - dd
+  - LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models
+  - DistMM: Accelerating Distributed Multimodal Model Training
+  - ModServe: Scalable and Resource-Efficient Large Multimodal Model Serving
+  - [SIGCOMM 2024] NetLLM: Adapting Large Language Models for Networking
 
 [Session 2.] w/Professor Park
 
