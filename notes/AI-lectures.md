@@ -145,12 +145,13 @@
   - ✅[arXiv 2025] Learning to Reason without External Rewards [(link)](https://arxiv.org/abs/2505.19590)
   - ✅[arXiv 2025] Deep Think with Confidence [(link)](https://arxiv.org/abs/2508.15260)
 - W9 - 10/30 - Information Retrieval & Text Mining
-  - BMX: Entropy-weighted Similarity and Semantic-enhanced Lexical Search
-  - EnrichIndex: Using LLMs to Enrich Retrieval Indices Offline
-  - DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning
-  - FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS
-  - S3: You Don't Need That Much Data to Train a Search Agent via RL
-  - Towards Better Instruction Following Retrieval Models
+  - [arXiv 2025] BMX: Entropy-weighted Similarity and Semantic-enhanced Lexical Search [(link)](https://arxiv.org/abs/2408.06643)
+  - [COLM 2025] DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning [(link)](https://arxiv.org/abs/2503.00223)
+  - [arXiv 2025] On the Theoretical Limitations of Embedding-Based Retrieval [(link)](https://arxiv.org/abs/2508.21038)
+  - [COLM 2025] EnrichIndex: Using LLMs to Enrich Retrieval Indices Offline [(link)](https://arxiv.org/abs/2504.03598)
+  - [arXiv 2025] FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS [(link)](https://arxiv.org/abs/2505.16409)
+  - [arXiv 2025] s3: You Don't Need That Much Data to Train a Search Agent via RL [(link)](https://arxiv.org/abs/2505.14146)
+  - [arXiv 2025] Towards Better Instruction Following Retrieval Models [(link)](https://arxiv.org/abs/2505.21439)
 - W10 - 11/6 (Online) - Decision Making & Insight Generation
 - W11 - 11/13 - Dialogue & Interactive System
 
