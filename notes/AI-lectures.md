@@ -65,7 +65,10 @@
 
 [Session 2.] w/Professor Park
 
-- W
+- W10 - 11/4
+  - Uni3D: Exploring Unified 3D Representation at Scale
+  - The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense
+  - OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
 
 ## 4. [Advanced] Recent Advances in LLMs
 
