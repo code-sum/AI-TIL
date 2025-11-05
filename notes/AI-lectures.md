@@ -67,10 +67,12 @@
 
 - W10 - 11/4
   - Uni3D: Exploring Unified 3D Representation at Scale [(link)](https://arxiv.org/abs/2310.06773)
+  - Speaking Beyond Language: A Large-Scale Multimodal Dataset for Learning Nonverbal Cues from Video-Grounded Dialogues [(link)](https://arxiv.org/abs/2506.00958)
   - The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense [(link)](https://arxiv.org/abs/2411.08410)
   - OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation [(link)](https://arxiv.org/abs/2311.17911)
 - W11 - 11/11
-  - 
+  - dd
+  - dd
 
 ## 4. [Advanced] Recent Advances in LLMs
 
