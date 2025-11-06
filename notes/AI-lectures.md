@@ -160,6 +160,14 @@
   - [arXiv 2025] s3: You Don't Need That Much Data to Train a Search Agent via RL [(link)](https://arxiv.org/abs/2505.14146)
   - [arXiv 2025] Towards Better Instruction Following Retrieval Models [(link)](https://arxiv.org/abs/2505.21439)
 - W10 - 11/6 (Online) - Decision Making & Insight Generation
+  - [NeurIPS 2025] Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop
+  - [NeurIPS 2024] From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection
+  - [ACL 2025] INVESTORBENCH: A Benchmark for Financial Decision-Making Tasks with LLM-based Agent
+  - [ACL 2025] LLM-Enhanced Self-Evolving Reinforcement Learning for Multi-Step E-Commerce Payment Fraud Risk Detection
+  - [NeurIPS 2024] FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making
+  - [ICDM 2025] MarketSenseAI 2.0: Enhancing Stock Analysis through LLM Agents
+  - [NeurIPS 2025] s3: You Don't Need That Much Data to Train a Search Agent via RL
+  - [ICLR 2025] DeLLMa: Decision Making Under Uncertainty with Large Language Models
 - W11 - 11/13 - Dialogue & Interactive System
 
 [Session 3.] w/Professor Kim
