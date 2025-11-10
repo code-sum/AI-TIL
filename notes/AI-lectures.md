@@ -97,7 +97,7 @@
   - [ACL 2025] Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models (note) [(link)](https://aclanthology.org/2025.acl-long.533/)
   - ✅[ACL 2025] Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral (note) [(link)](https://aclanthology.org/2025.acl-long.294/)
 - W3 - 9/18
-  - [ACL 2025] From REAL to SYNTHETIC: Synthesizing Millions of Diversified and Complicated User Instructions with Attributed Grounding (note) [(link)](https://aclanthology.org/2025.acl-long.517/)
+  - ✅[ACL 2025] From REAL to SYNTHETIC: Synthesizing Millions of Diversified and Complicated User Instructions with Attributed Grounding (note) [(link)](https://aclanthology.org/2025.acl-long.517/)
   - ✅[EMNLP 2024] Fool Me Once? Contrasting Textual and Visual Explanations in a Clinical Decision-Support Setting (note) [(link)](https://arxiv.org/abs/2410.12284)
   - [ACL 2025] Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users (note) [(link)](https://aclanthology.org/2025.acl-long.1260/)
   - ✅[ACL 2024] Don’t Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration (note) [(link)](https://aclanthology.org/2024.acl-long.786.pdf)
