@@ -71,8 +71,10 @@
   - [NeurIPS 2025] The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense [(link)](https://arxiv.org/abs/2411.08410)
   - [CVPR 2024] OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation [(link)](https://arxiv.org/abs/2311.17911)
 - W11 - 11/11
-  - dd
-  - dd
+  - TACA: Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers
+  - Diving into Self-Evolving Training for Multimodal Reasoning
+  - GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents
+  - HEALNet: Multimodal Fusion for Heterogeneous Biomedical Data
 
 ## 4. [Advanced] Recent Advances in LLMs
 
