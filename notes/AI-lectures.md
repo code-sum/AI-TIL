@@ -171,7 +171,21 @@
   - [NeurIPS 2025] s3: You Don't Need That Much Data to Train a Search Agent via RL
   - [ICLR 2025] DeLLMa: Decision Making Under Uncertainty with Large Language Models
 - W11 - 11/13 - Dialogue & Interactive System
+  - [ACL 2025] In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents
+  - [NAACL 2025] Hello Again! LLM-powered Personalized Agent for Long-term Dialogue
+  - [COLM 2025] Don’t Lie to Your Friends: Learning What You Know from Collaborative Self-Play
+  - [ACL 2025] Controllable and Reliable Knowledge-Intensive Task-Oriented Conversational Agents with Declarative Genie Worksheets
+  - [NAACL 2025] Breaking ReAct Agents: Foot-in-the-Door Attack Will Get You In
+  - [NAACL 2025] AI-LieDar : Examine the Trade-off Between Utility and Truthfulness in LLM Agents
+  - [ACL 2025] Caution for the Environment: LLM Agents are Susceptible to Environmental Distractions
+  - [ICLR 2025] Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence
 
 [Session 3.] w/Professor Kim
+
+- W12 - 11/20
+- W13 - 11/27
+- W14 - 12/4
+- W15 - 12/11
+- W16 - 12/18
 
 - dd
