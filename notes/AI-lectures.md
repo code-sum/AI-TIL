@@ -162,14 +162,14 @@
   - ✅MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem
   - ✅[arXiv 2025] Towards Better Instruction Following Retrieval Models [(link)](https://arxiv.org/abs/2505.21439)
 - W10 - 11/6 (Online) - Decision Making & Insight Generation
-  - ✅[NeurIPS 2025] Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop
+  - ✅[NeurIPS 2025] Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop [(link)](https://arxiv.org/abs/2503.01013)
   - [NeurIPS 2024] From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection
-  - ✅[ACL 2025] INVESTORBENCH: A Benchmark for Financial Decision-Making Tasks with LLM-based Agent
-  - ✅[ACL 2025] LLM-Enhanced Self-Evolving Reinforcement Learning for Multi-Step E-Commerce Payment Fraud Risk Detection
-  - ✅[NeurIPS 2024] FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making
-  - ✅[ICDM 2025] MarketSenseAI 2.0: Enhancing Stock Analysis through LLM Agents
-  - ✅[NeurIPS 2025] s3: You Don't Need That Much Data to Train a Search Agent via RL
-  - ✅[ICLR 2025] DeLLMa: Decision Making Under Uncertainty with Large Language Models
+  - ✅[ACL 2025] INVESTORBENCH: A Benchmark for Financial Decision-Making Tasks with LLM-based Agent [(link)](https://arxiv.org/abs/2412.18174)
+  - ✅[ACL 2025] LLM-Enhanced Self-Evolving Reinforcement Learning for Multi-Step E-Commerce Payment Fraud Risk Detection [(link)](https://aclanthology.org/2025.acl-industry.9/)
+  - ✅[NeurIPS 2024] FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making [(link)](https://arxiv.org/abs/2407.06567)
+  - ✅[ICDM 2025] MarketSenseAI 2.0: Enhancing Stock Analysis through LLM Agents [(link)](https://arxiv.org/abs/2502.00415)
+  - ✅[NeurIPS 2025] s3: You Don't Need That Much Data to Train a Search Agent via RL [(link)](https://arxiv.org/abs/2505.14146)
+  - ✅[ICLR 2025] DeLLMa: Decision Making Under Uncertainty with Large Language Models [(link)](https://arxiv.org/abs/2402.02392)
 - W11 - 11/13 - Dialogue & Interactive System
   - ✅[ACL 2025] In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents
   - ✅[NAACL 2025] Hello Again! LLM-powered Personalized Agent for Long-term Dialogue
