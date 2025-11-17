@@ -171,13 +171,13 @@
   - ✅[NeurIPS 2025] s3: You Don't Need That Much Data to Train a Search Agent via RL [(link)](https://arxiv.org/abs/2505.14146)
   - ✅[ICLR 2025] DeLLMa: Decision Making Under Uncertainty with Large Language Models [(link)](https://arxiv.org/abs/2402.02392)
 - W11 - 11/13 - Dialogue & Interactive System
-  - ✅[ACL 2025] In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents
-  - ✅[NAACL 2025] Hello Again! LLM-powered Personalized Agent for Long-term Dialogue
-  - ✅[COLM 2025] Don’t Lie to Your Friends: Learning What You Know from Collaborative Self-Play
-  - ✅[NAACL 2025] Breaking ReAct Agents: Foot-in-the-Door Attack Will Get You In
-  - ✅[NAACL 2025] AI-LieDar : Examine the Trade-off Between Utility and Truthfulness in LLM Agents
-  - ✅[ACL 2025] Caution for the Environment: LLM Agents are Susceptible to Environmental Distractions
-  - ✅[ICLR 2025] Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence
+  - ✅[ACL 2025] In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents [(link)](https://arxiv.org/abs/2503.08026)
+  - ✅[NAACL 2025] Hello Again! LLM-powered Personalized Agent for Long-term Dialogue [(link)](https://arxiv.org/abs/2406.05925)
+  - ✅[COLM 2025] Don’t Lie to Your Friends: Learning What You Know from Collaborative Self-Play [(link)](https://arxiv.org/abs/2503.14481)
+  - ✅[NAACL 2025] Breaking ReAct Agents: Foot-in-the-Door Attack Will Get You In [(link)](https://arxiv.org/abs/2410.16950)
+  - ✅[NAACL 2025] AI-LieDar : Examine the Trade-off Between Utility and Truthfulness in LLM Agents [(link)](https://arxiv.org/abs/2409.09013)
+  - ✅[ACL 2025] Caution for the Environment: LLM Agents are Susceptible to Environmental Distractions [(link)](https://arxiv.org/abs/2408.02544)
+  - ✅[ICLR 2025] Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence [(link)](https://arxiv.org/abs/2407.07061)
 
 [Session 3.] w/Professor Kim
 
