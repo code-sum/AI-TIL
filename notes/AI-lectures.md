@@ -75,6 +75,13 @@
   - [ICML 2025] Diving into Self-Evolving Training for Multimodal Reasoning
   - [NeurIPS 2025] GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents
   - [NeurIPS 2024] HEALNet: Multimodal Fusion for Heterogeneous Biomedical Data
+- W12 - 11/18
+  - Can AI Perceive Physical Danger and Intervene?
+  - Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection
+  - On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in Large Vision-Language Models
+  - LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token
+- W13 - 11/25
+- W14 - 12/2 
 
 ## 4. [Advanced] Recent Advances in LLMs
 
