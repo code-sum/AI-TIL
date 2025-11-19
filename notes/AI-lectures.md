@@ -71,10 +71,10 @@
   - [NeurIPS 2025] The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense [(link)](https://arxiv.org/abs/2411.08410)
   - [CVPR 2024] OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation [(link)](https://arxiv.org/abs/2311.17911)
 - W11 - 11/11
-  - [ICCV 2025] TACA: Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers
-  - [ICML 2025] Diving into Self-Evolving Training for Multimodal Reasoning
-  - [NeurIPS 2025] GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents
-  - [NeurIPS 2024] HEALNet: Multimodal Fusion for Heterogeneous Biomedical Data
+  - [ICCV 2025] TACA: Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers [(link)](https://arxiv.org/abs/2506.07986)
+  - [ICML 2025] Diving into Self-Evolving Training for Multimodal Reasoning [(link)](https://arxiv.org/abs/2412.17451)
+  - [NeurIPS 2025] GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents [(link)](https://arxiv.org/abs/2505.15810)
+  - [NeurIPS 2024] HEALNet: Multimodal Fusion for Heterogeneous Biomedical Data [(link)](https://arxiv.org/abs/2311.09115)
 - W12 - 11/18
   - Can AI Perceive Physical Danger and Intervene?
   - Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection
