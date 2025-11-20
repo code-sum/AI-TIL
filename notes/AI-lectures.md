@@ -189,6 +189,11 @@
 [Session 3.] w/Professor Kim
 
 - W12 - 11/20
+  - CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding
+  - RHO-1: Not All Tokens Are What You Need
+  - Debating with More Persuasive LLMs Leads to More Truthful Answers
+  - A Probabilistic Perspective on Unlearning and Alignment for Large Language Models
+  - Medical Large Language Model Benchmarks Should Prioritize Construct Validity
 - W13 - 11/27
 - W14 - 12/4
 - W15 - 12/11
