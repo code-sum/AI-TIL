@@ -76,10 +76,10 @@
   - [NeurIPS 2025] GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents [(link)](https://arxiv.org/abs/2505.15810)
   - [NeurIPS 2024] HEALNet: Multimodal Fusion for Heterogeneous Biomedical Data [(link)](https://arxiv.org/abs/2311.09115)
 - W12 - 11/18
-  - Can AI Perceive Physical Danger and Intervene?
-  - Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection
-  - On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in Large Vision-Language Models
-  - LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token
+  - [arXiv 2024] Can AI Perceive Physical Danger and Intervene? [(link)](https://arxiv.org/abs/2509.21651)
+  - [ECCV 2024] Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection [(link)](https://arxiv.org/abs/2303.05499)
+  - [ECCV 2024] On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in Large Vision-Language Models [(link)](https://arxiv.org/abs/2510.09008)
+  - [ICLR 2025] LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token [(link)](https://arxiv.org/abs/2501.03895)
 - W13 - 11/25
 - W14 - 12/2 
 
@@ -97,7 +97,7 @@
 - Blog by other researchers, e.g., in OpenAI (https://lilianweng.github.io)
 - E-mail subscription for recently issued papers (https://nlp.elvissaravia.com)
 
-[Session 1.] w/Professor Yeo
+[Session 1] w/Professor Yeo
 
 - W1 - 9/4
   - [Course Introduction & Basics of LLMs](seminar/LLM/S1-W1-1.md)
@@ -144,7 +144,7 @@
   - [ACL 2025] Steering off Course: Reliability Challenges in Steering Language Models (note) [(link)](https://aclanthology.org/2025.acl-long.974.pdf)
   - [ACL 2024] Steering Llama 2 via Contrastive Activation Addition (note) [(link)](https://aclanthology.org/2024.acl-long.828/)
 
-[Session 2.] w/Professor Lee
+[Session 2] w/Professor Lee
 
 - W7 - 10/16 - Benchmarking & Evaluation
   - ✅[ACL 2025] YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering [(link)](https://arxiv.org/abs/2505.14279)
@@ -186,7 +186,7 @@
   - ✅[ACL 2025] Caution for the Environment: LLM Agents are Susceptible to Environmental Distractions [(link)](https://arxiv.org/abs/2408.02544)
   - ✅[ICLR 2025] Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence [(link)](https://arxiv.org/abs/2407.07061)
 
-[Session 3.] w/Professor Kim
+[Session 3] w/Professor Kim
 
 - W12 - 11/20
   - CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding
