@@ -189,8 +189,8 @@
 [Session 3] w/Professor Kim
 
 - W12 - 11/20
-  - CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding
-  - RHO-1: Not All Tokens Are What You Need
+  - CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding [(link)](https://arxiv.org/abs/2507.10449)
+  - RHO-1: Not All Tokens Are What You Need [(link)](https://arxiv.org/abs/2404.07965)
   - Debating with More Persuasive LLMs Leads to More Truthful Answers
   - A Probabilistic Perspective on Unlearning and Alignment for Large Language Models
   - Medical Large Language Model Benchmarks Should Prioritize Construct Validity
