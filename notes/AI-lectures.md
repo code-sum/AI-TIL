@@ -191,9 +191,9 @@
 - W12 - 11/20
   - [NeurIPS 2025] CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding [(link)](https://arxiv.org/abs/2507.10449)
   - [NeurIPS 2024] RHO-1: Not All Tokens Are What You Need [(link)](https://arxiv.org/abs/2404.07965)
-  - [ICML 2024] Debating with More Persuasive LLMs Leads to More Truthful Answers
-  - [ICLR 2025] A Probabilistic Perspective on Unlearning and Alignment for Large Language Models
-  - [ICML 2025] Medical Large Language Model Benchmarks Should Prioritize Construct Validity
+  - [ICML 2024] Debating with More Persuasive LLMs Leads to More Truthful Answers [(link)](https://arxiv.org/abs/2402.06782)
+  - [ICLR 2025] A Probabilistic Perspective on Unlearning and Alignment for Large Language Models [(link)](https://arxiv.org/abs/2410.03523)
+  - [ICML 2025] Medical Large Language Model Benchmarks Should Prioritize Construct Validity [(link)](https://arxiv.org/abs/2503.10694)
 - W13 - 11/27
 - W14 - 12/4
 - W15 - 12/11
