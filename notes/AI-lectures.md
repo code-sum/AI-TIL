@@ -81,6 +81,10 @@
   - [ECCV 2024] On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in Large Vision-Language Models [(link)](https://arxiv.org/abs/2510.09008)
   - [ICLR 2025] LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token [(link)](https://arxiv.org/abs/2501.03895)
 - W13 - 11/25
+  - OmniActions: Predicting Digital Actions in Response to Real-World Multimodal Sensory Inputs with LLMs
+  - ChartMind: A Comprehensive Benchmark for Complex Real-world Multimodal Chart Question Answering
+  - Multimodal Safety Evaluation in Generative Agent Social Simulations
+  - Multi-subject Open-set Personalization in Video Generation
 - W14 - 12/2 
 
 ## 4. [Advanced] Recent Advances in LLMs
