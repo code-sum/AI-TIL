@@ -199,6 +199,13 @@
   - [ICLR 2025] A Probabilistic Perspective on Unlearning and Alignment for Large Language Models [(link)](https://arxiv.org/abs/2410.03523)
   - [ICML 2025] Medical Large Language Model Benchmarks Should Prioritize Construct Validity [(link)](https://arxiv.org/abs/2503.10694)
 - W13 - 11/27
+  - COLLABLLM: From Passive Responders to Active Collaborators
+  - Your Mixture-Of-Experts LLM is Secretly An Embedding Model For Free
+  - Reducing Hallucinations in Large Vision-Language Models via Latent Space Steering
+  - Large Language Diffusion Models
+  - Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models
+  - On Path to Multimodal Generalist: General-Level and General-Bench
+  - Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents
 - W14 - 12/4
 - W15 - 12/11
 - W16 - 12/18
