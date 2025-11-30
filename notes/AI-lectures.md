@@ -203,9 +203,9 @@
   - [ICLR 2025] A Probabilistic Perspective on Unlearning and Alignment for Large Language Models [(link)](https://arxiv.org/abs/2410.03523)
   - [ICML 2025] Medical Large Language Model Benchmarks Should Prioritize Construct Validity [(link)](https://arxiv.org/abs/2503.10694)
 - W13 - 11/27
-  - [ICML 2025] COLLABLLM: From Passive Responders to Active Collaborators
-  - [ICLR 2025] Your Mixture-Of-Experts LLM is Secretly An Embedding Model For Free
-  - [ICLR 2025] Reducing Hallucinations in Large Vision-Language Models via Latent Space Steering
+  - [ICML 2025] COLLABLLM: From Passive Responders to Active Collaborators [(link)](https://arxiv.org/abs/2502.00640)
+  - [ICLR 2025] Your Mixture-Of-Experts LLM is Secretly An Embedding Model For Free [(link)](https://arxiv.org/abs/2410.10814)
+  - [ICLR 2025] Reducing Hallucinations in Large Vision-Language Models via Latent Space Steering [(link)](https://arxiv.org/abs/2410.15778)
   - [NeurIPS 2025] Large Language Diffusion Models
   - [ICLR 2025] Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models
   - [ICLR 2025] Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents
