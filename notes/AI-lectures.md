@@ -86,10 +86,10 @@
   - [arXiv 2025] Multimodal Safety Evaluation in Generative Agent Social Simulations [(link)](https://arxiv.org/abs/2510.07709)
   - [CVPR 2025] Multi-subject Open-set Personalization in Video Generation [(link)](https://arxiv.org/abs/2501.06187)
 - W14 - 12/2
-  - 
-  - 
-  - 
-  - 
+  - π_0: A Vision-Language-Action Flow Model for General Robot Control
+  - PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding
+  - Uni-Mol: A Universal 3D Molecular Representation Learning Framework
+  - MoE-LLaVA: Mixture of Experts for Large Vision-Language Models
 
 ## 4. [Advanced] Recent Advances in LLMs
 
