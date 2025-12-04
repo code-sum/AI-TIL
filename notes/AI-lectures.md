@@ -210,5 +210,14 @@
   - [ICLR 2025] Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models [(link)](https://arxiv.org/abs/2411.14257)
   - [ICLR 2025] Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents [(link)](https://arxiv.org/abs/2410.05243)
 - W14 - 12/4
+  - SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?
+  - HiRA: Parameter-Efficient Hadamard High-Rank Adaptation for Large Language Models
+  - LLM Evaluators Recognize and Favor Their Own Generations
+  - Self-Play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models
+  - Jailbroken: How Does LLM Safety Training Fail?
+  - Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)
+  - Understanding Social Reasoning in Language Models with Language Models
+  - A Watermark for Large Language Models
+  - LLM Evaluators Recognize and Favor Their Own Generations
 - W15 - 12/11
 - W16 - 12/18
