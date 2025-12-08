@@ -213,9 +213,9 @@
   - [ICML 2025] SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering? [(link)](https://arxiv.org/abs/2502.12115)
   - [ICLR 2025] HiRA: Parameter-Efficient Hadamard High-Rank Adaptation for Large Language Models [(link)](https://openreview.net/forum?id=TwJrTz9cRS)
   - [NeurIPS 2024] LLM Evaluators Recognize and Favor Their Own Generations [(link)](https://arxiv.org/abs/2404.13076)
-  - [ICLR 2025] Self-Play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models
-  - [NeurIPS 2023] Jailbroken: How Does LLM Safety Training Fail?
-  - [NeurIPS 2025] Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)
-  - [ICML 2023] A Watermark for Large Language Models
+  - [ICLR 2025] Self-Play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models [(link)](https://arxiv.org/abs/2406.13542)
+  - [NeurIPS 2023] Jailbroken: How Does LLM Safety Training Fail? [(link)](https://arxiv.org/abs/2307.02483)
+  - [NeurIPS 2025] Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond) [(link)](https://arxiv.org/abs/2510.22954)
+  - [ICML 2023] A Watermark for Large Language Models [(link)](https://arxiv.org/abs/2301.10226)
 - W15 - 12/11
 - W16 - 12/18
