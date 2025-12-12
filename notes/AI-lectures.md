@@ -221,9 +221,9 @@
   - [NeurIPS 2025] Reverse Engineering Human Preferences with Reinforcement Learning
   - [ICLR 2025] MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions
   - [NeurIPS 2024] Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction
-  - AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models
-  - Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality
-  - Text2CAD: Generating Sequential CAD Models from Beginner-to-Expert Level Text Prompts
+  - [ICML 2025] AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models
+  - [ICML 2025] Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality
+  - [NeurIPS 2024] Text2CAD: Generating Sequential CAD Models from Beginner-to-Expert Level Text Prompts
   - SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code
   - PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding
   - Do as We Do, Not as You Think: the Conformity of Large Language Models
