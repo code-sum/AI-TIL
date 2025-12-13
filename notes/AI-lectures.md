@@ -224,7 +224,7 @@
   - [ICML 2025] AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models
   - [ICML 2025] Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality
   - [NeurIPS 2024] Text2CAD: Generating Sequential CAD Models from Beginner-to-Expert Level Text Prompts
-  - SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code
-  - PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding
-  - Do as We Do, Not as You Think: the Conformity of Large Language Models
+  - [ICML 2024] SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code
+  - [ICLR 2025] PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding
+  - [ICLR 2025] Do as We Do, Not as You Think: the Conformity of Large Language Models
 - W16 - 12/18
