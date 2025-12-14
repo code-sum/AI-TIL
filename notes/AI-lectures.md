@@ -218,9 +218,9 @@
   - [NeurIPS 2025] Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond) [(link)](https://arxiv.org/abs/2510.22954)
   - [ICML 2023] A Watermark for Large Language Models [(link)](https://arxiv.org/abs/2301.10226)
 - W15 - 12/11
-  - [NeurIPS 2025] Reverse Engineering Human Preferences with Reinforcement Learning
-  - [ICLR 2025] MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions
-  - [NeurIPS 2024] Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction
+  - [NeurIPS 2025] Reverse Engineering Human Preferences with Reinforcement Learning [(link)](https://arxiv.org/abs/2505.15795)
+  - [ICLR 2025] MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions [(link)](https://openreview.net/forum?id=GGlpykXDCa)
+  - [NeurIPS 2024] Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [(link)](https://arxiv.org/abs/2404.02905)
   - [ICML 2025] AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models
   - [ICML 2025] Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality
   - [NeurIPS 2024] Text2CAD: Generating Sequential CAD Models from Beginner-to-Expert Level Text Prompts
