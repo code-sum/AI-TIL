@@ -221,9 +221,9 @@
   - [NeurIPS 2025] Reverse Engineering Human Preferences with Reinforcement Learning [(link)](https://arxiv.org/abs/2505.15795)
   - [ICLR 2025] MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions [(link)](https://openreview.net/forum?id=GGlpykXDCa)
   - [NeurIPS 2024] Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [(link)](https://arxiv.org/abs/2404.02905)
-  - [ICML 2025] AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models
-  - [ICML 2025] Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality
-  - [NeurIPS 2024] Text2CAD: Generating Sequential CAD Models from Beginner-to-Expert Level Text Prompts
+  - [ICML 2025] AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models [(link)](https://arxiv.org/abs/2501.16566)
+  - [ICML 2025] Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality [(link)](https://arxiv.org/abs/2405.21060)
+  - [NeurIPS 2024] Text2CAD: Generating Sequential CAD Models from Beginner-to-Expert Level Text Prompts [(link)](https://arxiv.org/abs/2409.17106)
   - [ICML 2024] SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code
   - [ICLR 2025] PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding
   - [ICLR 2025] Do as We Do, Not as You Think: the Conformity of Large Language Models
