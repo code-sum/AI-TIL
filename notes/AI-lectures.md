@@ -231,7 +231,7 @@
   - [ICLR 2025] On the Role of Attention Heads in Large Language Model Safety
   - [ICLR 2025] From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions
   - [NeurIPS 2025] Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?
-  - Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition
-  - Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems
-  - Inference Scaling for Long-Context Retrieval Augmented Generation
+  - [ICML 2025] Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition
+  - [ICML 2025] Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems
+  - [ICML 2025] Inference Scaling for Long-Context Retrieval Augmented Generation
   - Frozen Transformers in Language Models Are Effective Visual Encoder Layers
