@@ -234,4 +234,5 @@
   - [ICML 2025] Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition
   - [ICML 2025] Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems
   - [ICML 2025] Inference Scaling for Long-Context Retrieval Augmented Generation
-  - Frozen Transformers in Language Models Are Effective Visual Encoder Layers
+  - [ICLR 2024] Frozen Transformers in Language Models Are Effective Visual Encoder Layers
+  - [NeurIPS 2025] OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts
