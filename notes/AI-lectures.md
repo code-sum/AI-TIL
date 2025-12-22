@@ -228,9 +228,9 @@
   - [ICLR 2025] PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding [(link)](https://arxiv.org/abs/2501.16411)
   - [ICLR 2025] Do as We Do, Not as You Think: the Conformity of Large Language Models [(link)](https://arxiv.org/abs/2501.13381)
 - W16 - 12/18
-  - [ICLR 2025] On the Role of Attention Heads in Large Language Model Safety
-  - [ICLR 2025] From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions
-  - [NeurIPS 2025] Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?
+  - [ICLR 2025] On the Role of Attention Heads in Large Language Model Safety [(link)](https://arxiv.org/abs/2410.13708)
+  - [ICLR 2025] From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions [(link)](https://arxiv.org/abs/2410.08197)
+  - [NeurIPS 2025] Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model? [(link)](https://arxiv.org/abs/2504.13837)
   - [ICML 2025] Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition
   - [ICML 2025] Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems
   - [ICML 2025] Inference Scaling for Long-Context Retrieval Augmented Generation
