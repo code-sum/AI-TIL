@@ -231,8 +231,8 @@
   - [ICLR 2025] On the Role of Attention Heads in Large Language Model Safety [(link)](https://arxiv.org/abs/2410.13708)
   - [ICLR 2025] From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions [(link)](https://arxiv.org/abs/2410.08197)
   - [NeurIPS 2025] Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model? [(link)](https://arxiv.org/abs/2504.13837)
-  - [ICML 2025] Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition
-  - [ICML 2025] Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems
-  - [ICML 2025] Inference Scaling for Long-Context Retrieval Augmented Generation
+  - [ICML 2025] Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition [(link)](https://arxiv.org/abs/2410.05603)
+  - [ICML 2025] Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems [(link)](https://arxiv.org/abs/2505.00212)
+  - [ICML 2025] Inference Scaling for Long-Context Retrieval Augmented Generation [(link)](https://arxiv.org/abs/2410.04343)
   - [ICLR 2024] Frozen Transformers in Language Models Are Effective Visual Encoder Layers
   - [NeurIPS 2025] OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts
