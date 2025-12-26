@@ -61,7 +61,7 @@
   - [CVPR 2025] LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models [(link)](https://arxiv.org/abs/2501.18954)
   - [NSDI 2024] DistMM: Accelerating Distributed Multimodal Model Training [(link)](https://www.usenix.org/conference/nsdi24/presentation/huang)
   - [Microsoft 2025] ModServe: Modality- and Stage-Aware Resource Disaggregation for Scalable Multimodal Model Serving [(link)](https://arxiv.org/abs/2502.00937)
-  - [SIGCOMM 2024] NetLLM: Adapting Large Language Models for Networking [(link)](https://arxiv.org/abs/2402.02338)
+  - [SIGCOMM 2024] NetLLM: Adapting Large Language Models for Networking [(link)](https://arxiv.org/abs/2402.02338) (note)
 
 [Session 2.] w/Professor Park
 
@@ -173,7 +173,7 @@
   - ✅[COLM 2025] DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning [(link)](https://arxiv.org/abs/2503.00223)
   - ✅[arXiv 2025] On the Theoretical Limitations of Embedding-Based Retrieval [(link)](https://arxiv.org/abs/2508.21038)
   - ✅[COLM 2025] EnrichIndex: Using LLMs to Enrich Retrieval Indices Offline [(link)](https://arxiv.org/abs/2504.03598)
-  - ✅[arXiv 2025] FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS [(link)](https://arxiv.org/abs/2505.16409)
+  - ✅[arXiv 2025] FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS [(link)](https://arxiv.org/abs/2505.16409) (note)
   - ✅MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem
   - ✅[arXiv 2025] Towards Better Instruction Following Retrieval Models [(link)](https://arxiv.org/abs/2505.21439)
 - W10 - 11/6 (Online) - Decision Making & Insight Generation
@@ -219,7 +219,7 @@
   - [ICML 2023] A Watermark for Large Language Models [(link)](https://arxiv.org/abs/2301.10226)
 - W15 - 12/11
   - [NeurIPS 2025] Reverse Engineering Human Preferences with Reinforcement Learning [(link)](https://arxiv.org/abs/2505.15795)
-  - [ICLR 2025] MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions [(link)](https://openreview.net/forum?id=GGlpykXDCa)
+  - [ICLR 2025] MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions [(link)](https://openreview.net/forum?id=GGlpykXDCa) (note)
   - [NeurIPS 2024] Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [(link)](https://arxiv.org/abs/2404.02905)
   - [ICML 2025] AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models [(link)](https://arxiv.org/abs/2501.16566)
   - [ICML 2025] Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality [(link)](https://arxiv.org/abs/2405.21060)
