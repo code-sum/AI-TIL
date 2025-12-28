@@ -61,7 +61,7 @@
   - [CVPR 2025] LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models [(link)](https://arxiv.org/abs/2501.18954)
   - [NSDI 2024] DistMM: Accelerating Distributed Multimodal Model Training [(link)](https://www.usenix.org/conference/nsdi24/presentation/huang)
   - [Microsoft 2025] ModServe: Modality- and Stage-Aware Resource Disaggregation for Scalable Multimodal Model Serving [(link)](https://arxiv.org/abs/2502.00937)
-  - [SIGCOMM 2024] NetLLM: Adapting Large Language Models for Networking [(link)](https://arxiv.org/abs/2402.02338) (note)
+  - [SIGCOMM 2024] NetLLM: Adapting Large Language Models for Networking [(link)](https://arxiv.org/abs/2402.02338) [(note)](seminar/MM/S1-W9-4.md)
 
 [Session 2.] w/Professor Park
 
