@@ -173,7 +173,7 @@
   - ✅[COLM 2025] DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning [(link)](https://arxiv.org/abs/2503.00223)
   - ✅[arXiv 2025] On the Theoretical Limitations of Embedding-Based Retrieval [(link)](https://arxiv.org/abs/2508.21038)
   - ✅[COLM 2025] EnrichIndex: Using LLMs to Enrich Retrieval Indices Offline [(link)](https://arxiv.org/abs/2504.03598)
-  - ✅[arXiv 2025] FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS [(link)](https://arxiv.org/abs/2505.16409) (note)
+  - ✅[arXiv 2025] FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS [(note)](seminar/LLM/S2-W9-5.md) [(link)](https://arxiv.org/abs/2505.16409) 
   - ✅MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem
   - ✅[arXiv 2025] Towards Better Instruction Following Retrieval Models [(link)](https://arxiv.org/abs/2505.21439)
 - W10 - 11/6 (Online) - Decision Making & Insight Generation
