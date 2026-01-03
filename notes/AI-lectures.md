@@ -61,7 +61,7 @@
   - [CVPR 2025] LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models [(link)](https://arxiv.org/abs/2501.18954)
   - [NSDI 2024] DistMM: Accelerating Distributed Multimodal Model Training [(link)](https://www.usenix.org/conference/nsdi24/presentation/huang)
   - [Microsoft 2025] ModServe: Modality- and Stage-Aware Resource Disaggregation for Scalable Multimodal Model Serving [(link)](https://arxiv.org/abs/2502.00937)
-  - [SIGCOMM 2024] NetLLM: Adapting Large Language Models for Networking [(note)](seminar/MM/S1-W9-4.md) [(link)](https://arxiv.org/abs/2402.02338) 
+  - [SIGCOMM 2024] NetLLM: Adapting Large Language Models for Networking [(note)](seminar/MM/S1-W9-4.md) [(link)](https://arxiv.org/abs/2402.02338)
 
 [Session 2.] w/Professor Park
 
@@ -173,7 +173,7 @@
   - ✅[COLM 2025] DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning [(link)](https://arxiv.org/abs/2503.00223)
   - ✅[arXiv 2025] On the Theoretical Limitations of Embedding-Based Retrieval [(link)](https://arxiv.org/abs/2508.21038)
   - ✅[COLM 2025] EnrichIndex: Using LLMs to Enrich Retrieval Indices Offline [(link)](https://arxiv.org/abs/2504.03598)
-  - ✅[arXiv 2025] FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS [(note)](seminar/LLM/S2-W9-5.md) [(link)](https://arxiv.org/abs/2505.16409) 
+  - ✅[arXiv 2025] FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS [(note)](seminar/LLM/S2-W9-5.md) [(link)](https://arxiv.org/abs/2505.16409)
   - ✅MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem
   - ✅[arXiv 2025] Towards Better Instruction Following Retrieval Models [(link)](https://arxiv.org/abs/2505.21439)
 - W10 - 11/6 (Online) - Decision Making & Insight Generation
@@ -210,7 +210,7 @@
   - [ICLR 2025] Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models [(link)](https://arxiv.org/abs/2411.14257)
   - [ICLR 2025] Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents [(link)](https://arxiv.org/abs/2410.05243)
 - W14 - 12/4
-  - [ICML 2025] SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering? [(link)](https://arxiv.org/abs/2502.12115)
+  - [ICML 2025] SWE-Lancer: Can Frontier LLMs Earn \$1 Million from Real-World Freelance Software Engineering? [(link)](https://arxiv.org/abs/2502.12115)
   - [ICLR 2025] HiRA: Parameter-Efficient Hadamard High-Rank Adaptation for Large Language Models [(link)](https://openreview.net/forum?id=TwJrTz9cRS)
   - [NeurIPS 2024] LLM Evaluators Recognize and Favor Their Own Generations [(link)](https://arxiv.org/abs/2404.13076)
   - [ICLR 2025] Self-Play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models [(link)](https://arxiv.org/abs/2406.13542)
@@ -219,7 +219,7 @@
   - [ICML 2023] A Watermark for Large Language Models [(link)](https://arxiv.org/abs/2301.10226)
 - W15 - 12/11
   - [NeurIPS 2025] Reverse Engineering Human Preferences with Reinforcement Learning [(link)](https://arxiv.org/abs/2505.15795)
-  - [ICLR 2025] MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions [(link)](https://openreview.net/forum?id=GGlpykXDCa) (note)
+  - [ICLR 2025] MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions [(note)](seminar/LLM/S3-W15-2.md) [(link)](https://openreview.net/forum?id=GGlpykXDCa)
   - [NeurIPS 2024] Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [(link)](https://arxiv.org/abs/2404.02905)
   - [ICML 2025] AffectGPT: A New Dataset, Model, and Benchmark for Emotion Understanding with Multimodal Large Language Models [(link)](https://arxiv.org/abs/2501.16566)
   - [ICML 2025] Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality [(link)](https://arxiv.org/abs/2405.21060)
