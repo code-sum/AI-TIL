@@ -110,7 +110,7 @@
 - W1 - 9/4
   - [Course Introduction & Basics of LLMs](seminar/LLM/S1-W1-1.md)
 - W2 - 9/11
-  - [ACL 2025] LLMs know their vulnerabilities: Uncover Safety Gaps through Natural Distribution Shifts (note) [(link)](https://aclanthology.org/2025.acl-long.1207/)
+  - [ACL 2025] LLMs know their vulnerabilities: Uncover Safety Gaps through Natural Distribution Shifts [(note)](seminar/LLM/S1-W2-1.md) [(link)](https://aclanthology.org/2025.acl-long.1207/)
   - [ACL 2025] Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models (note) [(link)](https://aclanthology.org/2025.acl-long.533/)
   - ✅[ACL 2025] Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral (note) [(link)](https://aclanthology.org/2025.acl-long.294/)
 - W3 - 9/18
