@@ -38,7 +38,7 @@
 
 - W3 - 9/16
   - [CVPR 2025] RAP: Retrieval-Augmented Personalization for Multimodal Large Language Models [(note)](seminar/MM/S1-W3-1.md) [(link)](https://arxiv.org/abs/2410.13360)
-  - [CVPR 2024] InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks [(link)](https://arxiv.org/abs/2312.14238)
+  - [CVPR 2024] InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks [(note)](seminar/MM/S1-W3-2.md) [(link)](https://arxiv.org/abs/2312.14238)
   - [CVPR 2025] Flowing from Words to Pixels: A Noise-Free Framework for Cross-Modality Evolution [(link)](https://arxiv.org/abs/2412.15213)
   - [ICASSP 2023] Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation [(link)](https://arxiv.org/abs/2211.06687)
 - W4 - 9/23
