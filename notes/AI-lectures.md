@@ -236,3 +236,12 @@
   - [ICML 2025] Inference Scaling for Long-Context Retrieval Augmented Generation [(link)](https://arxiv.org/abs/2410.04343)
   - [ICLR 2024] Frozen Transformers in Language Models Are Effective Visual Encoder Layers [(link)](https://arxiv.org/abs/2310.12973)
   - [NeurIPS 2025] OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts [(link)](https://arxiv.org/abs/2507.05427)
+
+## 5. [Advanced] Recent Advances in AI Systems
+
+[Session 1] w/Professor Jeong
+
+- W2 - 3/10
+  - [SOSP 2025] KTransformers: Unleashing the Full Potential of CPU/GPU Hybrid Inference for MoE Models
+  - [EuroSys 2025] CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion
+  - [OSDI 2025] NEUTRINO: Fine-grained GPU Kernel Profiling via Programmable Probing
