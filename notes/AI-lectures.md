@@ -43,7 +43,7 @@
   - [ICASSP 2023] Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation [(note)](seminar/MM/S1-W3-4.md) [(link)](https://arxiv.org/abs/2211.06687)
 - W4 - 9/23
   - [CVPR 2025] LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning [(note)](seminar/MM/S1-W4-1.md) [(link)](https://arxiv.org/abs/2505.16933)
-  - [CVPR 2025] The Point, the Vision and the Text: Does Point Cloud Boost Spatial Reasoning of Large Language Models? [(link)](https://arxiv.org/abs/2504.04540)
+  - [CVPR 2025] The Point, the Vision and the Text: Does Point Cloud Boost Spatial Reasoning of Large Language Models? [(note)](seminar/MM/S1-W4-2.md) [(link)](https://arxiv.org/abs/2504.04540)
   - [CVPR 2025] Cross-modal Information Flow in Multimodal Large Language Models [(link)](https://arxiv.org/abs/2411.18620)
   - [CVPR 2025] Tackling View-Dependent Semantics in 3D Language Gaussian Splatting [(link)](https://arxiv.org/abs/2505.24746)
 - W5 - 9/30
