@@ -242,6 +242,7 @@
 [Session 1] w/Professor Jeong
 
 - W2 - 3/10
-  - [SOSP 2025] KTransformers: Unleashing the Full Potential of CPU/GPU Hybrid Inference for MoE Models
+  - [SOSP 2025] KTransformers: Unleashing the Full Potential of CPU/GPU Hybrid Inference for MoE Models [(link)](https://dl.acm.org/doi/10.1145/3731569.3764843)
+  - [OSDI 2025] NEUTRINO: Fine-grained GPU Kernel Profiling via Programmable Probing [(link)](https://www.usenix.org/conference/osdi25/presentation/huang-songlin)
+- W3 - 3/17
   - [EuroSys 2025] CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion
-  - [OSDI 2025] NEUTRINO: Fine-grained GPU Kernel Profiling via Programmable Probing
