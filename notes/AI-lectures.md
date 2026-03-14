@@ -246,3 +246,5 @@
   - [OSDI 2025] NEUTRINO: Fine-grained GPU Kernel Profiling via Programmable Probing [(link)](https://www.usenix.org/conference/osdi25/presentation/huang-songlin)
 - W3 - 3/17
   - [EuroSys 2025] CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion
+  - [NeurIPS 2025] AttentionPredictor: Temporal Patterns Matter for KV Cache Compression
+  - [MLSys 2025] ScaleFusion: Scalable Inference of Spatial-Temporal Diffusion Transformers for High-Resolution Long Video Generation
