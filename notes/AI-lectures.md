@@ -245,6 +245,5 @@
   - [SOSP 2025] KTransformers: Unleashing the Full Potential of CPU/GPU Hybrid Inference for MoE Models [(link)](https://dl.acm.org/doi/10.1145/3731569.3764843)
   - [OSDI 2025] NEUTRINO: Fine-grained GPU Kernel Profiling via Programmable Probing [(link)](https://www.usenix.org/conference/osdi25/presentation/huang-songlin)
 - W3 - 3/17
-  - [EuroSys 2025] CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion [(link)](https://arxiv.org/abs/2405.16444)
   - [NeurIPS 2025] AttentionPredictor: Temporal Patterns Matter for KV Cache Compression [(link)](https://arxiv.org/abs/2502.04077)
   - [MLSys 2025] ScaleFusion: Scalable Inference of Spatial-Temporal Diffusion Transformers for High-Resolution Long Video Generation [(link)](https://openreview.net/forum?id=anZWBeWnWh)
