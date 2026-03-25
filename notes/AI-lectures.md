@@ -248,6 +248,6 @@
   - [NeurIPS 2025] AttentionPredictor: Temporal Patterns Matter for KV Cache Compression [(link)](https://arxiv.org/abs/2502.04077)
   - [MLSys 2025] ScaleFusion: Scalable Inference of Spatial-Temporal Diffusion Transformers for High-Resolution Long Video Generation [(link)](https://openreview.net/forum?id=anZWBeWnWh)
 - W4 - 3/24
-  - [ICLR 2025] SCoRe: Training Language Models to Self-Correct via Reinforcement Learning
-  - [ASPLOS 2025] POD-Attention: Unlocking Full Prefill-Decode Overlap for Faster LLM Inference
-  - [SOSP 2025] SAND: A New Programming Abstraction for Video-based Deep Learning
+  - [ICLR 2025] SCoRe: Training Language Models to Self-Correct via Reinforcement Learning [(link)](https://arxiv.org/abs/2409.12917)
+  - [ASPLOS 2025] POD-Attention: Unlocking Full Prefill-Decode Overlap for Faster LLM Inference [(link)](https://arxiv.org/abs/2410.18038)
+  - [SOSP 2025] SAND: A New Programming Abstraction for Video-based Deep Learning [(link)](https://dl.acm.org/doi/10.1145/3731569.3764847)
