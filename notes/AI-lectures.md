@@ -255,3 +255,7 @@
   - [MLSys 2025] FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving [(link)](https://arxiv.org/abs/2501.01005)
   - [FAST 2026] SolidAttention: Low-Latency SSD-based Serving on Memory-Constrained PCs [(link)](https://www.usenix.org/conference/fast26/presentation/zheng)
   - [ASPLOS 2025] MetaSapiens: Real-Time Neural Rendering with Efficiency-Aware Pruning and Accelerated Foveated Rendering [(link)](https://arxiv.org/abs/2407.00435)
+- W6 - 4/7
+  - [ICLR 2026] ThinKV: Thought-Adaptive KV Cache Compression for Efficient Reasoning Models
+  - [SIGCOMM 2025] DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models
+  - [NDSS 2026] DNN Latency Sequencing: Extracting DNN Architectures from Intel SGX Enclaves with Single-Stepping Attacks
