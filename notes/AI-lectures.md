@@ -256,6 +256,6 @@
   - [FAST 2026] SolidAttention: Low-Latency SSD-based Serving on Memory-Constrained PCs [(link)](https://www.usenix.org/conference/fast26/presentation/zheng)
   - [ASPLOS 2025] MetaSapiens: Real-Time Neural Rendering with Efficiency-Aware Pruning and Accelerated Foveated Rendering [(link)](https://arxiv.org/abs/2407.00435)
 - W6 - 4/7
-  - [ICLR 2026] ThinKV: Thought-Adaptive KV Cache Compression for Efficient Reasoning Models
-  - [SIGCOMM 2025] DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models
-  - [NDSS 2026] DNN Latency Sequencing: Extracting DNN Architectures from Intel SGX Enclaves with Single-Stepping Attacks
+  - [ICLR 2026] ThinKV: Thought-Adaptive KV Cache Compression for Efficient Reasoning Models [(link)](https://arxiv.org/abs/2510.01290)
+  - [SIGCOMM 2025] DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models [(link)](https://arxiv.org/abs/2408.04275)
+  - [NDSS 2026] DNN Latency Sequencing: Extracting DNN Architectures from Intel SGX Enclaves with Single-Stepping Attacks [(link)](https://www.ndss-symposium.org/ndss-paper/dnn-latency-sequencing-extracting-dnn-architectures-from-intel-sgx-enclaves-with-single-stepping-attacks/)
