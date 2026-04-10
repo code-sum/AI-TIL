@@ -260,6 +260,6 @@
   - [SIGCOMM 2025] DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models [(link)](https://arxiv.org/abs/2408.04275)
   - [NDSS 2026] DNN Latency Sequencing: Extracting DNN Architectures from Intel SGX Enclaves with Single-Stepping Attacks [(link)](https://www.ndss-symposium.org/ndss-paper/dnn-latency-sequencing-extracting-dnn-architectures-from-intel-sgx-enclaves-with-single-stepping-attacks/)
 - W7 - 4/14
-  - [ASPLOS 2025] OS2G: A High-Performance DPU Offloading Architecture for GPU-based Deep Learning with Object Storage
-  - [MLSys 2025] ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments
-  - [EuroSys 2025] CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion
+  - [ASPLOS 2025] OS2G: A High-Performance DPU Offloading Architecture for GPU-based Deep Learning with Object Storage [(link)](https://dl.acm.org/doi/10.1145/3676641.3716265)
+  - [MLSys 2025] ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments [(link)](https://arxiv.org/abs/2502.09334)
+  - [EuroSys 2025] CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion [(link)](https://arxiv.org/abs/2405.16444)
