@@ -255,6 +255,9 @@
   - [MLSys 2025] FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving [(link)](https://arxiv.org/abs/2501.01005)
   - [FAST 2026] SolidAttention: Low-Latency SSD-based Serving on Memory-Constrained PCs [(link)](https://www.usenix.org/conference/fast26/presentation/zheng)
   - [ASPLOS 2025] MetaSapiens: Real-Time Neural Rendering with Efficiency-Aware Pruning and Accelerated Foveated Rendering [(link)](https://arxiv.org/abs/2407.00435)
+
+[Session 2] w/Professor Lee
+
 - W6 - 4/7
   - [ICLR 2026] ThinKV: Thought-Adaptive KV Cache Compression for Efficient Reasoning Models [(link)](https://arxiv.org/abs/2510.01290)
   - [SIGCOMM 2025] DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models [(link)](https://arxiv.org/abs/2408.04275)
@@ -263,3 +266,5 @@
   - [ASPLOS 2025] OS2G: A High-Performance DPU Offloading Architecture for GPU-based Deep Learning with Object Storage [(link)](https://dl.acm.org/doi/10.1145/3676641.3716265)
   - [MLSys 2025] ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments [(note)](seminar/AISys/S1-W7-2.md) [(link)](https://arxiv.org/abs/2502.09334)
   - [EuroSys 2025] CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion [(link)](https://arxiv.org/abs/2405.16444)
+
+[Session 3] w/Professor Song
