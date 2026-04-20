@@ -268,3 +268,8 @@
   - [EuroSys 2025] CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion [(note)](seminar/AISys/S1-W7-3.md) [(link)](https://arxiv.org/abs/2405.16444)
 
 [Session 3] w/Professor Song
+
+- W8 - 4/21
+  - [ICCV 2025] Beyond Text-Visual Attention Exploiting Visual Cues for Effective Token Pruning in VLMs
+  - [ICML 2025] Targeted Unlearning with Single Layer Unlearning Gradient
+  - [NeurIPS 2025] InfinityStar: Uniﬁed Spacetime AutoRegressive Modeling for Visual Generation
