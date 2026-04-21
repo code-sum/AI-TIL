@@ -270,6 +270,6 @@
 [Session 3] w/Professor Song
 
 - W8 - 4/21
-  - [ICCV 2025] Beyond Text-Visual Attention Exploiting Visual Cues for Effective Token Pruning in VLMs
-  - [ICML 2025] Targeted Unlearning with Single Layer Unlearning Gradient
-  - [NeurIPS 2025] InfinityStar: Uniﬁed Spacetime AutoRegressive Modeling for Visual Generation
+  - [ICCV 2025] Beyond Text-Visual Attention Exploiting Visual Cues for Effective Token Pruning in VLMs [(link)](https://arxiv.org/abs/2412.01818)
+  - [ICML 2025] Targeted Unlearning with Single Layer Unlearning Gradient [(link)](https://arxiv.org/abs/2407.11867)
+  - [NeurIPS 2025] InfinityStar: Uniﬁed Spacetime AutoRegressive Modeling for Visual Generation [(link)](https://arxiv.org/abs/2511.04675)
