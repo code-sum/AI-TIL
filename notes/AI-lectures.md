@@ -267,9 +267,9 @@
   - [MLSys 2025] ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments [(note)](seminar/AISys/S1-W7-2.md) [(link)](https://arxiv.org/abs/2502.09334)
   - [EuroSys 2025] CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion [(note)](seminar/AISys/S1-W7-3.md) [(link)](https://arxiv.org/abs/2405.16444)
 - W9 - 4/28
-  - [ICLR 2026] Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding
-  - [CVPR 2025] CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP
-  - [NeurIPS 2025] AutoData: A Multi-Agent System for Open Web Data Collection
+  - [ICLR 2026] Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding [(link)](https://arxiv.org/abs/2505.22618)
+  - [CVPR 2025] CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP [(link)](https://arxiv.org/abs/2503.03613)
+  - [NeurIPS 2025] AutoData: A Multi-Agent System for Open Web Data Collection [(link)](https://arxiv.org/abs/2505.15859)
 
 [Session 3] w/Professor Song
 
