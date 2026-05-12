@@ -270,6 +270,10 @@
   - [ICLR 2026] Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding [(link)](https://arxiv.org/abs/2505.22618)
   - [CVPR 2025] CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP [(link)](https://arxiv.org/abs/2503.03613)
   - [NeurIPS 2025] AutoData: A Multi-Agent System for Open Web Data Collection [(link)](https://arxiv.org/abs/2505.15859)
+- W11 - 5/12
+  - [ISCA 2025] Chimera: Communication Fusion for Hybrid Parallelism in Large Language Models
+  - [ASPLOS 2026] Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration
+  - [ASPLOS 2025] Virgo: Cluster-level Matrix Unit Integration in GPUs for Scalability and Energy Efficiency
 
 [Session 3] w/Professor Song
 
