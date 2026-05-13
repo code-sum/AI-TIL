@@ -271,9 +271,9 @@
   - [CVPR 2025] CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP [(link)](https://arxiv.org/abs/2503.03613)
   - [NeurIPS 2025] AutoData: A Multi-Agent System for Open Web Data Collection [(link)](https://arxiv.org/abs/2505.15859)
 - W11 - 5/12
-  - [ISCA 2025] Chimera: Communication Fusion for Hybrid Parallelism in Large Language Models
-  - [ASPLOS 2026] Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration
-  - [ASPLOS 2025] Virgo: Cluster-level Matrix Unit Integration in GPUs for Scalability and Energy Efficiency
+  - [ISCA 2025] Chimera: Communication Fusion for Hybrid Parallelism in Large Language Models [(link)](https://dl.acm.org/doi/10.1145/3695053.3731025)
+  - [ASPLOS 2026] Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration [(link)](https://dl.acm.org/doi/10.1145/3779212.3790192)
+  - [ASPLOS 2025] Virgo: Cluster-level Matrix Unit Integration in GPUs for Scalability and Energy Efficiency [(link)](https://dl.acm.org/doi/abs/10.1145/3676641.3716281)
 
 [Session 3] w/Professor Song
 
