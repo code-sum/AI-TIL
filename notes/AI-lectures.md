@@ -275,7 +275,9 @@
   - [ASPLOS 2026] Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration [(link)](https://dl.acm.org/doi/10.1145/3779212.3790192)
   - [ASPLOS 2025] Virgo: Cluster-level Matrix Unit Integration in GPUs for Scalability and Energy Efficiency [(link)](https://dl.acm.org/doi/abs/10.1145/3676641.3716281)
 - W13 - 5/26
-  - PASCAL: A Phase-Aware Scheduling Algorithm for Serving Reasoning-based Large Language Models
+  - [HPCA 2026] PASCAL: A Phase-Aware Scheduling Algorithm for Serving Reasoning-based Large Language Models
+  - [EuroSys 2025] Empower Vision Applications with LoRA LMM
+  - [ICML 2025] Fast Video Generation with Sliding Tile Attention
 
 [Session 3] w/Professor Song
 
