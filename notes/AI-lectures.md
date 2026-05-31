@@ -52,7 +52,7 @@
   - [CVPR 2025] Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration [(note)](seminar/MM/S1-W5-3.md) [(link)](https://arxiv.org/abs/2502.16652)
 - W7 - 10/14
   - [ICLR 2025] Reducing Hallucinations in Large Vision Language Models via Latent Space Steering [(note)](seminar/MM/S1-W7-1.md) [(link)](https://arxiv.org/abs/2410.15778)
-  - [CVPR 2025] MBQ: Modality-Balanced Quantization for Large Vision-Language Models [(link)](https://arxiv.org/abs/2412.19509)
+  - [CVPR 2025] MBQ: Modality-Balanced Quantization for Large Vision-Language Models [(note)](seminar/MM/S1-W7-2.md) [(link)](https://arxiv.org/abs/2412.19509)
   - [IEEE Transactions on Pattern Analysis and Machine Intelligence] Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts [(link)](https://arxiv.org/abs/2405.11273)
 - W7 - 10/15
   - [arXiv 2023] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [(link)](https://arxiv.org/abs/2307.15818)
