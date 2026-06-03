@@ -290,6 +290,6 @@
   - [CVPR 2025] DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models [(link)](https://arxiv.org/abs/2411.15024)
   - [MLSys 2025] MAS-ATTENTION: memory-aware stream processing for attention acceleration on resource-constrained edge devices [(link)](https://arxiv.org/abs/2411.17720)
 - W14 - 6/2
-  - [HPCA 2025] Ditto: Accelerating Diffusion Model via Temporal Value Similarity
-  - [NeurlPS 2025] Geometry Aware Operator Transformer As An Efficient And Accurate Neural Surrogate For PDEs On Arbitrary Domains
-  - [ASPLOS 2026] CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting with CPU Offloading
+  - [HPCA 2025] Ditto: Accelerating Diffusion Model via Temporal Value Similarity [(link)](https://arxiv.org/abs/2501.11211)
+  - [NeurlPS 2025] Geometry Aware Operator Transformer As An Efficient And Accurate Neural Surrogate For PDEs On Arbitrary Domains [(link)](https://arxiv.org/abs/2505.18781)
+  - [ASPLOS 2026] CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting with CPU Offloading [(link)](https://arxiv.org/abs/2511.04951)
