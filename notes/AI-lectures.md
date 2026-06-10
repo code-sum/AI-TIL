@@ -294,6 +294,6 @@
   - [NeurlPS 2025] Geometry Aware Operator Transformer As An Efficient And Accurate Neural Surrogate For PDEs On Arbitrary Domains [(link)](https://arxiv.org/abs/2505.18781)
   - [ASPLOS 2026] CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting with CPU Offloading [(link)](https://arxiv.org/abs/2511.04951)
 - W15 - 6/9
-  - [ICLR 2025] Streaming Video Question-Answering with In-context Video KV-Cache Retrieval
-  - [EuroSys 2026] KunServe: Parameter-centric Memory Management for Efficient Memory Overloading
-  - [NeurIPS 2025] GRIFFIN: Effective Token Alignment for Faster Speculative Decoding
+  - [ICLR 2025] Streaming Video Question-Answering with In-context Video KV-Cache Retrieval [(link)](https://arxiv.org/abs/2503.00540)
+  - [EuroSys 2026] KunServe: Parameter-centric Memory Management for Efficient Memory Overloading Handling in LLM Serving [(link)](https://arxiv.org/abs/2412.18169)
+  - [NeurIPS 2025] GRIFFIN: Effective Token Alignment for Faster Speculative Decoding [(link)](https://arxiv.org/abs/2502.11018)
