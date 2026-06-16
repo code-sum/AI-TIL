@@ -297,3 +297,7 @@
   - [ICLR 2025] Streaming Video Question-Answering with In-context Video KV-Cache Retrieval [(link)](https://arxiv.org/abs/2503.00540)
   - [EuroSys 2026] KunServe: Parameter-centric Memory Management for Efficient Memory Overloading Handling in LLM Serving [(link)](https://arxiv.org/abs/2412.18169)
   - [NeurIPS 2025] GRIFFIN: Effective Token Alignment for Faster Speculative Decoding [(link)](https://arxiv.org/abs/2502.11018)
+- W16 - 6/16
+  - [ICML 2025] ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference
+  - [ASPLOS 2025] Fast On-device LLM Inference with NPUs
+  - [NeurIPS 2025] Hogwild! Inference: Parallel LLM Generation via Concurrent Attention
