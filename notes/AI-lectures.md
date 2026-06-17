@@ -298,6 +298,6 @@
   - [EuroSys 2026] KunServe: Parameter-centric Memory Management for Efficient Memory Overloading Handling in LLM Serving [(link)](https://arxiv.org/abs/2412.18169)
   - [NeurIPS 2025] GRIFFIN: Effective Token Alignment for Faster Speculative Decoding [(link)](https://arxiv.org/abs/2502.11018)
 - W16 - 6/16
-  - [ICML 2025] ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference
-  - [ASPLOS 2025] Fast On-device LLM Inference with NPUs
-  - [NeurIPS 2025] Hogwild! Inference: Parallel LLM Generation via Concurrent Attention
+  - [ICML 2025] ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference [(link)](https://arxiv.org/abs/2410.21465)
+  - [ASPLOS 2025] Fast On-device LLM Inference with NPUs [(link)](https://arxiv.org/abs/2407.05858)
+  - [NeurIPS 2025] Hogwild! Inference: Parallel LLM Generation via Concurrent Attention [(link)](https://arxiv.org/abs/2504.06261)
