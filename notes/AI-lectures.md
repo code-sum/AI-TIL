@@ -56,7 +56,7 @@
   - [IEEE Transactions on Pattern Analysis and Machine Intelligence] Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts [(note)](seminar/MM/S1-W7-3.md) [(link)](https://arxiv.org/abs/2405.11273)
 - W7 - 10/15
   - [arXiv 2023] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [(note)](seminar/MM/S1-W7-4.md) [(link)](https://arxiv.org/abs/2307.15818)
-  - [ICCV 2025] V.I.P. : Iterative Online Preference Distillation for Efficient Video Diffusion Models [(link)](https://arxiv.org/abs/2508.03254)
+  - [ICCV 2025] V.I.P. : Iterative Online Preference Distillation for Efficient Video Diffusion Models [(note)](seminar/MM/S1-W7-5.md) [(link)](https://arxiv.org/abs/2508.03254)
 - W9 - 10/28
   - [CVPR 2025] LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models [(link)](https://arxiv.org/abs/2501.18954)
   - [NSDI 2024] DistMM: Accelerating Distributed Multimodal Model Training [(link)](https://www.usenix.org/conference/nsdi24/presentation/huang)
