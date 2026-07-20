@@ -112,7 +112,7 @@
 - W2 - 9/11
   - [ACL 2025] LLMs know their vulnerabilities: Uncover Safety Gaps through Natural Distribution Shifts [(note)](seminar/LLM/S1-W2-1.md) [(link)](https://aclanthology.org/2025.acl-long.1207/)
   - [ACL 2025] Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language Models [(note)](seminar/LLM/S1-W2-2.md) [(link)](https://aclanthology.org/2025.acl-long.533/)
-  - ✅[ACL 2025] Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral (note) [(link)](https://aclanthology.org/2025.acl-long.294/)
+  - ✅[ACL 2025] Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral [(note)](seminar/LLM/S1-W2-3.md) [(link)](https://aclanthology.org/2025.acl-long.294/)
 - W3 - 9/18
   - ✅[ACL 2025] From REAL to SYNTHETIC: Synthesizing Millions of Diversified and Complicated User Instructions with Attributed Grounding (note) [(link)](https://aclanthology.org/2025.acl-long.517/)
   - ✅[EMNLP 2024] Fool Me Once? Contrasting Textual and Visual Explanations in a Clinical Decision-Support Setting (note) [(link)](https://arxiv.org/abs/2410.12284)
