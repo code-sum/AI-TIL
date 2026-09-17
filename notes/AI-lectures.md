@@ -118,7 +118,7 @@
   - ✅[EMNLP 2024] Fool Me Once? Contrasting Textual and Visual Explanations in a Clinical Decision-Support Setting [(note)](seminar/LLM/S1-W3-2.md) [(link)](https://arxiv.org/abs/2410.12284)
   - [ACL 2025] Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users [(note)](seminar/LLM/S1-W3-3.md) [(link)](https://aclanthology.org/2025.acl-long.1260/)
   - ✅[ACL 2024] Don’t Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration [(note)](seminar/LLM/S1-W3-4.md) [(link)](https://aclanthology.org/2024.acl-long.786.pdf)
-  - ✅[ICLR 2025] Safety Alignment Should be Made More Than Just a Few Tokens Deep (note) [(link)](https://openreview.net/forum?id=6Mxhg9PtDE)
+  - ✅[ICLR 2025] Safety Alignment Should be Made More Than Just a Few Tokens Deep [(note)](seminar/LLM/S1-W3-5.md) [(link)](https://openreview.net/forum?id=6Mxhg9PtDE)
   - ✅[ACL 2024] Having Beer after Prayer? Measuring Cultural Bias in Large Language Models (note) [(link)](https://aclanthology.org/2024.acl-long.862.pdf)
   - ✅[ACL 2025] Mixtures of In-Context Learners (note) [(link)](https://aclanthology.org/2025.acl-long.1277/)
   - ✅[ACL 2025] Speculative Reward Model Boosts Decision Making Ability of LLMs Cost-Effectively (note) [(link)](https://arxiv.org/pdf/2506.00396?)
