@@ -121,7 +121,7 @@
   - ✅[ICLR 2025] Safety Alignment Should be Made More Than Just a Few Tokens Deep [(note)](seminar/LLM/S1-W3-5.md) [(link)](https://openreview.net/forum?id=6Mxhg9PtDE)
   - ✅[ACL 2024] Having Beer after Prayer? Measuring Cultural Bias in Large Language Models [(note)](seminar/LLM/S1-W3-6.md) [(link)](https://aclanthology.org/2024.acl-long.862.pdf)
   - ✅[ACL 2025] Mixtures of In-Context Learners [(note)](seminar/LLM/S1-W3-7.md) [(link)](https://aclanthology.org/2025.acl-long.1277/)
-  - ✅[ACL 2025] Speculative Reward Model Boosts Decision Making Ability of LLMs Cost-Effectively (note) [(link)](https://arxiv.org/pdf/2506.00396?)
+  - ✅[ACL 2025] Speculative Reward Model Boosts Decision Making Ability of LLMs Cost-Effectively [(note)](seminar/LLM/S1-W3-8.md) [(link)](https://arxiv.org/pdf/2506.00396?)
 - W4 - 9/25
   - [ACL 2025] A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive (note) [(link)](https://aclanthology.org/2025.acl-long.1454/)
   - ✅[ACL 2024] Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models (note) [(link)](https://arxiv.org/abs/2401.07159)
