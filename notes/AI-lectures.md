@@ -250,7 +250,7 @@
   - [MLSys 2025] ScaleFusion: Scalable Inference of Spatial-Temporal Diffusion Transformers for High-Resolution Long Video Generation [(link)](https://openreview.net/forum?id=anZWBeWnWh)
 - W4 - 3/24
   - [ICLR 2025] SCoRe: Training Language Models to Self-Correct via Reinforcement Learning [(note)](seminar/AISys/S1-W4-1.md) [(link)](https://arxiv.org/abs/2409.12917)
-  - [ASPLOS 2025] POD-Attention: Unlocking Full Prefill-Decode Overlap for Faster LLM Inference [(link)](https://arxiv.org/abs/2410.18038)
+  - [ASPLOS 2025] POD-Attention: Unlocking Full Prefill-Decode Overlap for Faster LLM Inference [(note)](seminar/AISys/S1-W4-2.md) [(link)](https://arxiv.org/abs/2410.18038)
   - [SOSP 2025] SAND: A New Programming Abstraction for Video-based Deep Learning [(link)](https://dl.acm.org/doi/10.1145/3731569.3764847)
 - W5 - 3/31
   - [MLSys 2025] FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving [(link)](https://arxiv.org/abs/2501.01005)
